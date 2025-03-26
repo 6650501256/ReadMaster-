@@ -257,7 +257,6 @@ html, body { width: 320px; height: 480px; }
 #learning1 #image4 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
 #learning1 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
-
 #learning1 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
 
 #learning1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -292,6 +291,8 @@ html, body { width: 320px; height: 480px; }
 
 #learning1 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
 
+#learning1 #image9 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
+
 #learning2 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning2 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
@@ -299,10 +300,10 @@ html, body { width: 320px; height: 480px; }
 #learning2 #image4 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
 #learning2 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
-
 #learning2 #html1 { position: absolute; top: 81.67%; left: 0.00%; width: 100.00%; height: 23.33%; }
 
 #learning2 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
+
 #learning2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #learning2 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
@@ -335,13 +336,13 @@ html, body { width: 320px; height: 480px; }
 
 #learning2 #image9 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
+#learning2 #image10 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
+
 #learning3 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning3 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
 #learning3 #image4 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
-
-#learning3 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
 #learning3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
@@ -377,15 +378,12 @@ html, body { width: 320px; height: 480px; }
 
 #learning3 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
 
+#learning3 #image13 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 #learning4 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning4 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
-#learning4 #html1 { position: absolute; top: 81.67%; left: 0.00%; width: 100.00%; height: 23.33%; }
-
 #learning4 #image4 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
-
-#learning4 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
 #learning4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
@@ -421,15 +419,12 @@ html, body { width: 320px; height: 480px; }
 
 #learning4 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
 
+#learning4 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 #learning5 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning5 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
-#learning5 #html1 { position: absolute; top: 80.00%; left: 0.00%; width: 100.00%; height: 10.00%; }
-
 #learning5 #image4 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
-
-#learning5 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
 #learning5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
@@ -465,6 +460,7 @@ html, body { width: 320px; height: 480px; }
 
 #learning5 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
 
+#learning5 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 #compre1 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 #compre1 #image2 { position: absolute; top: 26.67%; left: 32.50%; width: 32.50%; height: 8.33%; }
 
@@ -1986,6 +1982,7 @@ html, body { width: 320px; height: 480px; }
 #coaching1 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching1 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
 #coaching2 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2029,6 +2026,7 @@ html, body { width: 320px; height: 480px; }
 #coaching2 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching2 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
 #coaching3 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2072,6 +2070,7 @@ html, body { width: 320px; height: 480px; }
 #coaching3 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching3 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
 #coaching4 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2115,6 +2114,7 @@ html, body { width: 320px; height: 480px; }
 #coaching4 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching4 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
 #coaching5 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2158,6 +2158,7 @@ html, body { width: 320px; height: 480px; }
 #coaching5 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching5 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
 #collaboration1 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #collaboration1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }

@@ -259,7 +259,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning1 #image4 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
 #learning1 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
-
 #learning1 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
 
 #learning1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -294,6 +293,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning1 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
 
+#learning1 #image9 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
+
 #learning2 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning2 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
@@ -301,10 +302,10 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning2 #image4 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
 #learning2 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
-
 #learning2 #html1 { position: absolute; top: 392px; left: 0px; width: 320px; height: 112px; }
 
 #learning2 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
+
 #learning2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #learning2 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
@@ -337,13 +338,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning2 #image9 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
+#learning2 #image10 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
+
 #learning3 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning3 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
 
 #learning3 #image4 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
-
-#learning3 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 
 #learning3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
@@ -379,15 +380,12 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning3 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
 
+#learning3 #image13 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 #learning4 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning4 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
 
-#learning4 #html1 { position: absolute; top: 392px; left: 0px; width: 320px; height: 112px; }
-
 #learning4 #image4 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
-
-#learning4 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 
 #learning4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
@@ -423,15 +421,12 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning4 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
 
+#learning4 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 #learning5 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning5 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
 
-#learning5 #html1 { position: absolute; top: 384px; left: 0px; width: 320px; height: 48px; }
-
 #learning5 #image4 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
-
-#learning5 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 
 #learning5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
@@ -467,6 +462,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning5 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
 
+#learning5 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 #compre1 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 #compre1 #image2 { position: absolute; top: 128px; left: 104px; width: 104px; height: 40px; }
 
@@ -1988,6 +1984,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching1 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching1 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
+
 #coaching2 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2031,6 +2028,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching2 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching2 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
+
 #coaching3 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2074,6 +2072,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching3 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching3 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
+
 #coaching4 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2117,6 +2116,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching4 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching4 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
+
 #coaching5 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2160,6 +2160,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching5 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching5 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
+
 #collaboration1 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #collaboration1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
