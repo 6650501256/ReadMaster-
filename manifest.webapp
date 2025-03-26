@@ -1,10 +1,10 @@
 ﻿{
  "version": "1.0.0",
- "name": "New App 2",
- "description": "Another DecSoft App Builder app",
+ "name": "ReadMaster",
+ "description": "Improve your Reading Skill with ReadMaster",
  "developer": {
-  "name": "DecSoft App Builder",
-  "url": "https://www.decsoftutils.com/"
+  "name": "ReadMaster",
+  "url": "https://6650501256.github.io/ReadMaster-/#/start/"
  },
  "fullscreen": "true",
  "launch_path": "index.html",
