@@ -43,7 +43,7 @@ const dialogscafproce = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -251,7 +251,7 @@ const dialogscafstretegic = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -459,7 +459,7 @@ const dialogscafmeta = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -667,7 +667,7 @@ const dialogconcep1 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -859,7 +859,7 @@ const dialogconcep2 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1044,7 +1044,7 @@ const dialogconcep3 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1229,7 +1229,7 @@ const dialogconcep4 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1414,7 +1414,7 @@ const dialogconcep5 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1615,7 +1615,7 @@ const dialoghandout1 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1824,7 +1824,7 @@ const dialoghandout2 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2033,7 +2033,7 @@ const dialoghandout3 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2241,7 +2241,7 @@ const dialoghandout4 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2449,7 +2449,7 @@ const dialoghandout5 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2641,7 +2641,7 @@ const dialogtask1 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2674,7 +2674,7 @@ app.hideDialogs();
 
           image1: {
             name: "image1",
-            url: "images/474737201_1519763009006940_9111988661729388446_n.png",
+            url: "app/images/474737201_1519763009006940_9111988661729388446_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -2696,7 +2696,7 @@ app.hideDialogs();
 
           image2: {
             name: "image2",
-            url: "images/474812201_1849960579141431_4170616093797993023_n.png",
+            url: "app/images/474812201_1849960579141431_4170616093797993023_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -2870,7 +2870,7 @@ const dialogtask2 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2903,7 +2903,7 @@ app.hideDialogs();
 
           image7: {
             name: "image7",
-            url: "images/474039111_514453627795265_966336220618507518_n.png",
+            url: "app/images/474039111_514453627795265_966336220618507518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -2925,7 +2925,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images/474887776_1814689292702843_1596946969253118841_n.png",
+            url: "app/images/474887776_1814689292702843_1596946969253118841_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3099,7 +3099,7 @@ const dialogtask3 = {
           app: this.$root,
           image7: {
             name: "image7",
-            url: "images/474712668_585246377710311_2206443737340126962_n.png",
+            url: "app/images/474712668_585246377710311_2206443737340126962_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3121,7 +3121,7 @@ const dialogtask3 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3154,7 +3154,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images/474895888_1572263456774681_3188374580747811216_n.png",
+            url: "app/images/474895888_1572263456774681_3188374580747811216_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3328,7 +3328,7 @@ const dialogtask4 = {
           app: this.$root,
           image7: {
             name: "image7",
-            url: "images/474732864_624509826741022_6139322745404491246_n.png",
+            url: "app/images/474732864_624509826741022_6139322745404491246_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3350,7 +3350,7 @@ const dialogtask4 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3383,7 +3383,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images/475029790_1221066599816431_6551616613671259380_n.png",
+            url: "app/images/475029790_1221066599816431_6551616613671259380_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3566,7 +3566,7 @@ const Ansbot11 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3761,7 +3761,7 @@ const Ansbot12 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3947,7 +3947,7 @@ const dialogtask5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474738492_965941294979918_8326998411994216454_n.png",
+            url: "app/images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3969,7 +3969,7 @@ const dialogtask5 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4002,7 +4002,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images/474943109_644207011398600_201680220264967437_n.png",
+            url: "app/images/474943109_644207011398600_201680220264967437_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -4329,7 +4329,7 @@ const Ansbot21 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -4360,7 +4360,7 @@ const Ansbot21 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4546,7 +4546,7 @@ const Ansbot22 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -4577,7 +4577,7 @@ const Ansbot22 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4763,7 +4763,7 @@ const Ansbot23 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -4794,7 +4794,7 @@ const Ansbot23 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4980,7 +4980,7 @@ const Ansbot24 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -5011,7 +5011,7 @@ const Ansbot24 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5197,7 +5197,7 @@ const Ansbot31 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -5228,7 +5228,7 @@ const Ansbot31 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5414,7 +5414,7 @@ const Ansbot32 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -5445,7 +5445,7 @@ const Ansbot32 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5631,7 +5631,7 @@ const Ansbot33 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -5662,7 +5662,7 @@ const Ansbot33 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5848,7 +5848,7 @@ const Ansbot34 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -5879,7 +5879,7 @@ const Ansbot34 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6065,7 +6065,7 @@ const Ansbot41 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -6096,7 +6096,7 @@ const Ansbot41 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6282,7 +6282,7 @@ const Ansbot42 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -6313,7 +6313,7 @@ const Ansbot42 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6499,7 +6499,7 @@ const Ansbot43 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -6530,7 +6530,7 @@ const Ansbot43 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6716,7 +6716,7 @@ const Ansbot44 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -6747,7 +6747,7 @@ const Ansbot44 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6933,7 +6933,7 @@ const Ansbot51 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -6964,7 +6964,7 @@ const Ansbot51 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7150,7 +7150,7 @@ const Ansbot52 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7181,7 +7181,7 @@ const Ansbot52 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7367,7 +7367,7 @@ const Ansbot53 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7398,7 +7398,7 @@ const Ansbot53 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7584,7 +7584,7 @@ const Ansbot54 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7615,7 +7615,7 @@ const Ansbot54 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7801,7 +7801,7 @@ const Anstask12 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7832,7 +7832,7 @@ const Anstask12 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -8018,7 +8018,7 @@ const Anstask21 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8049,7 +8049,7 @@ const Anstask21 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -8235,7 +8235,7 @@ const Anstask22 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8266,7 +8266,7 @@ const Anstask22 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -8452,7 +8452,7 @@ const Anstask31 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8483,7 +8483,7 @@ const Anstask31 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -8669,7 +8669,7 @@ const Anstask32 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8700,7 +8700,7 @@ const Anstask32 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -8886,7 +8886,7 @@ const Anstask41 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8917,7 +8917,7 @@ const Anstask41 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -9103,7 +9103,7 @@ const Anstask42 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9134,7 +9134,7 @@ const Anstask42 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -9320,7 +9320,7 @@ const Anstask51 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9351,7 +9351,7 @@ const Anstask51 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -9537,7 +9537,7 @@ const Anstask52 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9568,7 +9568,7 @@ const Anstask52 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -9754,7 +9754,7 @@ const Anstask11 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9785,7 +9785,7 @@ const Anstask11 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -9971,7 +9971,7 @@ const dialog2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10002,7 +10002,7 @@ const dialog2 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -10188,7 +10188,7 @@ const dialog3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476583532_2358077401232855_7683346176167951154_n.jpg",
+            url: "app/images/476583532_2358077401232855_7683346176167951154_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10219,7 +10219,7 @@ const dialog3 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -10410,7 +10410,7 @@ const start = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474387906_1607266189924752_6586373827279564599_n.png",
+            url: "app/images/474387906_1607266189924752_6586373827279564599_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10432,7 +10432,7 @@ const start = {
 
           image3: {
             name: "image3",
-            url: "images/467483572_2164457637289891_2646976368746657728_n.png",
+            url: "app/images/467483572_2164457637289891_2646976368746657728_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10465,7 +10465,7 @@ app.showView('home');
 
           image2: {
             name: "image2",
-            url: "images/474278659_400956869740561_8413685259364857763_n.png",
+            url: "app/images/474278659_400956869740561_8413685259364857763_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10633,7 +10633,7 @@ const home = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474447750_1133504998241458_7319366033986031112_n.jpg",
+            url: "app/images/474447750_1133504998241458_7319366033986031112_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10655,7 +10655,7 @@ const home = {
 
           image4: {
             name: "image4",
-            url: "images/467475460_590872117225131_5242547452897977916_n.png",
+            url: "app/images/467475460_590872117225131_5242547452897977916_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10688,7 +10688,7 @@ app.showView('problem1');
 
           image9: {
             name: "image9",
-            url: "images/467476849_1768994313836713_4673463898932985853_n.png",
+            url: "app/images/467476849_1768994313836713_4673463898932985853_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10721,7 +10721,7 @@ app.showView('problem2');
 
           image10: {
             name: "image10",
-            url: "images/466832041_1017671803525576_4378390615869316467_n.png",
+            url: "app/images/466832041_1017671803525576_4378390615869316467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10754,7 +10754,7 @@ app.showView('problem3');
 
           image11: {
             name: "image11",
-            url: "images/467136290_899254962362920_2783300144135893031_n.png",
+            url: "app/images/467136290_899254962362920_2783300144135893031_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10787,7 +10787,7 @@ app.showView('problem4');
 
           image12: {
             name: "image12",
-            url: "images/467478146_1138297697964457_8419394508001460423_n.png",
+            url: "app/images/467478146_1138297697964457_8419394508001460423_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10820,7 +10820,7 @@ app.showView('problem5');
 
           image2: {
             name: "image2",
-            url: "images/474854892_1955068261685715_2009290267501924134_n.png",
+            url: "app/images/474854892_1955068261685715_2009290267501924134_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10842,7 +10842,7 @@ app.showView('problem5');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11022,7 +11022,7 @@ const collaboration = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11044,7 +11044,7 @@ const collaboration = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11077,7 +11077,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11111,7 +11111,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images/467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11144,7 +11144,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image5: {
             name: "image5",
-            url: "images/467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11178,7 +11178,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image6: {
             name: "image6",
-            url: "images/474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11200,7 +11200,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image7: {
             name: "image7",
-            url: "images/474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11222,7 +11222,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11243,7 +11243,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11264,7 +11264,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11285,7 +11285,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11306,7 +11306,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11327,7 +11327,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11753,7 +11753,7 @@ const problem1 = {
           app: this.$root,
           image2: {
             name: "image2",
-            url: "images/479996981_1304007404188985_4374370433236091957_n.jpg",
+            url: "app/images/479996981_1304007404188985_4374370433236091957_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11775,7 +11775,7 @@ const problem1 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11824,7 +11824,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/476329097_1149728752849606_6092298936548647986_n.png",
+            url: "app/images/476329097_1149728752849606_6092298936548647986_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11857,7 +11857,7 @@ app.showView('task11');
 
           image1: {
             name: "image1",
-            url: "images/474737201_1519763009006940_9111988661729388446_n.png",
+            url: "app/images/474737201_1519763009006940_9111988661729388446_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11894,7 +11894,7 @@ app.showView('task11');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11927,7 +11927,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11960,7 +11960,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -11993,7 +11993,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12026,7 +12026,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12059,7 +12059,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12092,7 +12092,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12125,7 +12125,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12158,7 +12158,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12191,7 +12191,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12224,7 +12224,7 @@ app.showView('collaboration1');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12257,7 +12257,7 @@ app.showView('home');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12290,7 +12290,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12510,7 +12510,7 @@ const problem2 = {
           app: this.$root,
           image2: {
             name: "image2",
-            url: "images/479996981_1304007404188985_4374370433236091957_n.jpg",
+            url: "app/images/479996981_1304007404188985_4374370433236091957_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12548,7 +12548,7 @@ const problem2 = {
 
           image4: {
             name: "image4",
-            url: "images/474887776_1814689292702843_1596946969253118841_n.png",
+            url: "app/images/474887776_1814689292702843_1596946969253118841_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12570,7 +12570,7 @@ const problem2 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12603,7 +12603,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images/474039111_514453627795265_966336220618507518_n.png",
+            url: "app/images/474039111_514453627795265_966336220618507518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12640,7 +12640,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12673,7 +12673,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12706,7 +12706,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12739,7 +12739,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12772,7 +12772,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12805,7 +12805,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12838,7 +12838,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12871,7 +12871,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12904,7 +12904,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12937,7 +12937,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -12970,7 +12970,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13003,7 +13003,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13036,7 +13036,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13069,7 +13069,7 @@ app.showView('problem2');
 
           image5: {
             name: "image5",
-            url: "images/476329097_1149728752849606_6092298936548647986_n.png",
+            url: "app/images/476329097_1149728752849606_6092298936548647986_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13289,7 +13289,7 @@ const problem3 = {
           app: this.$root,
           image2: {
             name: "image2",
-            url: "images/479996981_1304007404188985_4374370433236091957_n.jpg",
+            url: "app/images/479996981_1304007404188985_4374370433236091957_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13311,7 +13311,7 @@ const problem3 = {
 
           image4: {
             name: "image4",
-            url: "images/474895888_1572263456774681_3188374580747811216_n.png",
+            url: "app/images/474895888_1572263456774681_3188374580747811216_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13333,7 +13333,7 @@ const problem3 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13366,7 +13366,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images/474712668_585246377710311_2206443737340126962_n.png",
+            url: "app/images/474712668_585246377710311_2206443737340126962_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13403,7 +13403,7 @@ app.showSidebar();
           },
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13436,7 +13436,7 @@ app.showView('home');
 
           image5: {
             name: "image5",
-            url: "images/476329097_1149728752849606_6092298936548647986_n.png",
+            url: "app/images/476329097_1149728752849606_6092298936548647986_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13469,7 +13469,7 @@ app.showView('task31');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13502,7 +13502,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13535,7 +13535,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13568,7 +13568,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13601,7 +13601,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13634,7 +13634,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13667,7 +13667,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13700,7 +13700,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13733,7 +13733,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13766,7 +13766,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13799,7 +13799,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -13832,7 +13832,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14040,7 +14040,7 @@ const problem4 = {
           app: this.$root,
           image2: {
             name: "image2",
-            url: "images/479996981_1304007404188985_4374370433236091957_n.jpg",
+            url: "app/images/479996981_1304007404188985_4374370433236091957_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14078,7 +14078,7 @@ const problem4 = {
 
           image4: {
             name: "image4",
-            url: "images/475029790_1221066599816431_6551616613671259380_n.png",
+            url: "app/images/475029790_1221066599816431_6551616613671259380_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14100,7 +14100,7 @@ const problem4 = {
 
           image7: {
             name: "image7",
-            url: "images/474732864_624509826741022_6139322745404491246_n.png",
+            url: "app/images/474732864_624509826741022_6139322745404491246_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14122,7 +14122,7 @@ const problem4 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14171,7 +14171,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14204,7 +14204,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14237,7 +14237,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14270,7 +14270,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14303,7 +14303,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14336,7 +14336,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14369,7 +14369,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14402,7 +14402,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14435,7 +14435,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14468,7 +14468,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14501,7 +14501,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14534,7 +14534,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14567,7 +14567,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -14600,7 +14600,7 @@ app.showView('problem4');
 
           image5: {
             name: "image5",
-            url: "images/476329097_1149728752849606_6092298936548647986_n.png",
+            url: "app/images/476329097_1149728752849606_6092298936548647986_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14820,7 +14820,7 @@ const problem5 = {
           app: this.$root,
           image2: {
             name: "image2",
-            url: "images/479996981_1304007404188985_4374370433236091957_n.jpg",
+            url: "app/images/479996981_1304007404188985_4374370433236091957_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14858,7 +14858,7 @@ const problem5 = {
 
           image4: {
             name: "image4",
-            url: "images/474943109_644207011398600_201680220264967437_n.png",
+            url: "app/images/474943109_644207011398600_201680220264967437_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14880,7 +14880,7 @@ const problem5 = {
 
           image1: {
             name: "image1",
-            url: "images/474738492_965941294979918_8326998411994216454_n.png",
+            url: "app/images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14901,7 +14901,7 @@ const problem5 = {
           },
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14950,7 +14950,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14983,7 +14983,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15016,7 +15016,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15049,7 +15049,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15082,7 +15082,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15115,7 +15115,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15148,7 +15148,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15181,7 +15181,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15214,7 +15214,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15247,7 +15247,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15280,7 +15280,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15313,7 +15313,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15346,7 +15346,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15379,7 +15379,7 @@ app.showView('problem5');
 
           image5: {
             name: "image5",
-            url: "images/476329097_1149728752849606_6092298936548647986_n.png",
+            url: "app/images/476329097_1149728752849606_6092298936548647986_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15599,7 +15599,7 @@ const learning1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15621,7 +15621,7 @@ const learning1 = {
 
           image2: {
             name: "image2",
-            url: "images/467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15670,7 +15670,7 @@ app.showDialog('dialoghandout1');
 
           image4: {
             name: "image4",
-            url: "images/467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15704,7 +15704,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image5: {
             name: "image5",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15735,10 +15735,9 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
             mouseleaveHandler() {},
             contextmenuHandler() {}
           },
-
           image6: {
             name: "image6",
-            url: "images/473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15760,7 +15759,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15793,7 +15792,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15826,7 +15825,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15859,7 +15858,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15892,7 +15891,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15925,7 +15924,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15958,7 +15957,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -15991,7 +15990,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16024,7 +16023,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16057,7 +16056,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16090,7 +16089,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16123,7 +16122,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16156,7 +16155,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16189,7 +16188,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16222,7 +16221,7 @@ app.showView('problem1');
 
           image11: {
             name: "image11",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16256,7 +16255,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image7: {
             name: "image7",
-            url: "images/476591147_1130202868426835_5074401085170488177_n.png",
+            url: "app/images/476591147_1130202868426835_5074401085170488177_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16267,6 +16266,39 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
             loadHandler() {},
             errorHandler() {},
             clickHandler() {},
+            dblclickHandler() {},
+            mouseupHandler() {},
+            mousedownHandler() {},
+            mousemoveHandler() {},
+            mouseenterHandler() {},
+            mouseleaveHandler() {},
+            contextmenuHandler() {}
+          },
+
+          image9: {
+            name: "image9",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
+            classes: "",
+            description: "",
+            title: " Created with Unregistered DecSoft App Builder",
+            imageFit: "contain",
+            hidden: false,
+            disabled: false,
+            event: null,
+            loadHandler() {},
+            errorHandler() {},
+
+            clickHandler(event) {
+              let
+                view = app._getCurrentView(),
+                views = app._getLoadedViews(),
+                frames = app._getLoadedFrames(),
+                dialogs = app._getLoadedDialogs(),
+                self = views["learning1"].image9;
+                self.event = event;
+
+window.open('https://www.canva.com/design/DAGiv2SCwDM/HPn0dMy6KY0xH-8XHh_FGA/watch?utm_content=DAGiv2SCwDM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hebf355f39d', '_system');
+            },
             dblclickHandler() {},
             mouseupHandler() {},
             mousedownHandler() {},
@@ -16408,7 +16440,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
     src="https://www.canva.com/design/DAGUI_p_vUE/c9gPU_Rvgvj1Aeb-CjvGNQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-</dab-html><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush12"></dab-image-push><dab-image-push v-bind="imgpush13"></dab-image-push><dab-image-push v-bind="imgpush14"></dab-image-push><dab-image-push v-bind="imgpush15"></dab-image-push><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush11"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush4"></dab-image-push><dab-image-push v-bind="imgpush5"></dab-image-push><dab-image-push v-bind="imgpush7"></dab-image-push><dab-image-push v-bind="imgpush9"></dab-image-push><dab-image-push v-bind="imgpush10"></dab-image-push><dab-image v-bind="image11"></dab-image><dab-image v-bind="image7"></dab-image></div></transition>
+</dab-html><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush12"></dab-image-push><dab-image-push v-bind="imgpush13"></dab-image-push><dab-image-push v-bind="imgpush14"></dab-image-push><dab-image-push v-bind="imgpush15"></dab-image-push><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush11"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush4"></dab-image-push><dab-image-push v-bind="imgpush5"></dab-image-push><dab-image-push v-bind="imgpush7"></dab-image-push><dab-image-push v-bind="imgpush9"></dab-image-push><dab-image-push v-bind="imgpush10"></dab-image-push><dab-image v-bind="image11"></dab-image><dab-image v-bind="image7"></dab-image><dab-image v-bind="image9"></dab-image></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
 
@@ -16430,7 +16462,7 @@ const learning2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16452,7 +16484,7 @@ const learning2 = {
 
           image2: {
             name: "image2",
-            url: "images/467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16486,7 +16518,7 @@ app.showDialog('dialoghandout2');
 
           image4: {
             name: "image4",
-            url: "images/467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16520,7 +16552,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image5: {
             name: "image5",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16551,7 +16583,6 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
             mouseleaveHandler() {},
             contextmenuHandler() {}
           },
-
           html1: {
             name: "html1",
             classes: "",
@@ -16570,7 +16601,7 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
 
           image7: {
             name: "image7",
-            url: "images/476591147_1130202868426835_5074401085170488177_n.png",
+            url: "app/images/476591147_1130202868426835_5074401085170488177_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16589,9 +16620,10 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
             mouseleaveHandler() {},
             contextmenuHandler() {}
           },
+
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16624,7 +16656,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16646,7 +16678,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16679,7 +16711,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16712,7 +16744,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16745,7 +16777,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16778,7 +16810,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16811,7 +16843,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16844,7 +16876,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16877,7 +16909,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16910,7 +16942,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16943,7 +16975,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -16976,7 +17008,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17009,7 +17041,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17042,7 +17074,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17075,7 +17107,7 @@ app.showView('problem2');
 
           image9: {
             name: "image9",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17107,6 +17139,38 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
             contextmenuHandler() {}
           },
 
+          image10: {
+            name: "image10",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
+            classes: "",
+            description: "",
+            title: " Created with Unregistered DecSoft App Builder",
+            imageFit: "contain",
+            hidden: false,
+            disabled: false,
+            event: null,
+            loadHandler() {},
+            errorHandler() {},
+
+            clickHandler(event) {
+              let
+                view = app._getCurrentView(),
+                views = app._getLoadedViews(),
+                frames = app._getLoadedFrames(),
+                dialogs = app._getLoadedDialogs(),
+                self = views["learning2"].image10;
+                self.event = event;
+
+window.open('https://youtu.be/UGieoicEp0Y', '_system');
+            },
+            dblclickHandler() {},
+            mouseupHandler() {},
+            mousedownHandler() {},
+            mousemoveHandler() {},
+            mouseenterHandler() {},
+            mouseleaveHandler() {},
+            contextmenuHandler() {}
+          }
         };
       },
       activated() {
@@ -17239,7 +17303,7 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
     src="https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
-</div></dab-html><dab-image v-bind="image7"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image></div></transition>
+</div></dab-html><dab-image v-bind="image7"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image10"></dab-image></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
 
@@ -17261,7 +17325,7 @@ const learning3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17283,7 +17347,7 @@ const learning3 = {
 
           image2: {
             name: "image2",
-            url: "images/467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17316,7 +17380,7 @@ app.showDialog('dialoghandout3');
 
           image4: {
             name: "image4",
-            url: "images/467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17348,43 +17412,9 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
             contextmenuHandler() {}
           },
 
-          image5: {
-            name: "image5",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
-            classes: "",
-            description: "",
-            title: " Created with Unregistered DecSoft App Builder",
-            imageFit: "contain",
-            hidden: true,
-            disabled: false,
-            event: null,
-            loadHandler() {},
-            errorHandler() {},
-
-            clickHandler(event) {
-              let
-                view = app._getCurrentView(),
-                views = app._getLoadedViews(),
-                frames = app._getLoadedFrames(),
-                dialogs = app._getLoadedDialogs(),
-                self = views["learning3"].image5;
-                self.event = event;
-
-window.open('https://www.canva.com/design/DAGUIvYEvt4/XSXixd5c7YYuAHeWLFgYHg/view?utm_content=DAGUIvYEvt4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61ea3a7c77', '_system');
-
-            },
-            dblclickHandler() {},
-            mouseupHandler() {},
-            mousedownHandler() {},
-            mousemoveHandler() {},
-            mouseenterHandler() {},
-            mouseleaveHandler() {},
-            contextmenuHandler() {}
-          },
-
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17417,7 +17447,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17439,7 +17469,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17472,7 +17502,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17505,7 +17535,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17538,7 +17568,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17571,7 +17601,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17604,7 +17634,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17637,7 +17667,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17670,7 +17700,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17703,7 +17733,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17736,7 +17766,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17769,7 +17799,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17802,7 +17832,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17835,7 +17865,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -17868,7 +17898,7 @@ app.showView('problem3');
 
           image9: {
             name: "image9",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17902,7 +17932,7 @@ window.open('https://www.canva.com/design/DAGUIvYEvt4/XSXixd5c7YYuAHeWLFgYHg/vie
 
           image7: {
             name: "image7",
-            url: "images/476591147_1130202868426835_5074401085170488177_n.png",
+            url: "app/images/476591147_1130202868426835_5074401085170488177_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17913,6 +17943,39 @@ window.open('https://www.canva.com/design/DAGUIvYEvt4/XSXixd5c7YYuAHeWLFgYHg/vie
             loadHandler() {},
             errorHandler() {},
             clickHandler() {},
+            dblclickHandler() {},
+            mouseupHandler() {},
+            mousedownHandler() {},
+            mousemoveHandler() {},
+            mouseenterHandler() {},
+            mouseleaveHandler() {},
+            contextmenuHandler() {}
+          },
+
+          image13: {
+            name: "image13",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
+            classes: "",
+            description: "",
+            title: " Created with Unregistered DecSoft App Builder",
+            imageFit: "contain",
+            hidden: false,
+            disabled: false,
+            event: null,
+            loadHandler() {},
+            errorHandler() {},
+
+            clickHandler(event) {
+              let
+                view = app._getCurrentView(),
+                views = app._getLoadedViews(),
+                frames = app._getLoadedFrames(),
+                dialogs = app._getLoadedDialogs(),
+                self = views["learning3"].image13;
+                self.event = event;
+
+window.open('https://www.canva.com/design/DAGi1_cwRXM/FbcYPEUBaPe0ZuX-K_NBDw/watch?utm_content=DAGi1_cwRXM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3936ce261b', '_system');
+            },
             dblclickHandler() {},
             mouseupHandler() {},
             mousedownHandler() {},
@@ -18047,10 +18110,9 @@ window.open('https://www.canva.com/design/DAGUIvYEvt4/XSXixd5c7YYuAHeWLFgYHg/vie
         }
     },
       template: `<!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->
-<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="learning3" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image7"></dab-image></div></transition>
+<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="learning3" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image7"></dab-image><dab-image v-bind="image13"></dab-image></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
-
 const learning4 = {
  components: DabComponents,
  created() {
@@ -18069,7 +18131,7 @@ const learning4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18091,7 +18153,7 @@ const learning4 = {
 
           image2: {
             name: "image2",
-            url: "images/467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18122,25 +18184,9 @@ app.showDialog('dialoghandout4');
             contextmenuHandler() {}
           },
 
-          html1: {
-            name: "html1",
-            classes: "",
-            title: " Created with Unregistered DecSoft App Builder",
-            hidden: true,
-            event: null,
-            clickHandler() {},
-            dblclickHandler() {},
-            mouseupHandler() {},
-            mousedownHandler() {},
-            mousemoveHandler() {},
-            mouseenterHandler() {},
-            mouseleaveHandler() {},
-            contextmenuHandler() {}
-          },
-
           image4: {
             name: "image4",
-            url: "images/467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18172,43 +18218,9 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
             contextmenuHandler() {}
           },
 
-          image5: {
-            name: "image5",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
-            classes: "",
-            description: "",
-            title: " Created with Unregistered DecSoft App Builder",
-            imageFit: "contain",
-            hidden: true,
-            disabled: false,
-            event: null,
-            loadHandler() {},
-            errorHandler() {},
-
-            clickHandler(event) {
-              let
-                view = app._getCurrentView(),
-                views = app._getLoadedViews(),
-                frames = app._getLoadedFrames(),
-                dialogs = app._getLoadedDialogs(),
-                self = views["learning4"].image5;
-                self.event = event;
-
-window.open('https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/view?utm_content=DAGUF2C2ikM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h96a6c9f34c', '_system');
-
-            },
-            dblclickHandler() {},
-            mouseupHandler() {},
-            mousedownHandler() {},
-            mousemoveHandler() {},
-            mouseenterHandler() {},
-            mouseleaveHandler() {},
-            contextmenuHandler() {}
-          },
-
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18241,7 +18253,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18263,7 +18275,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18296,7 +18308,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18329,7 +18341,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18362,7 +18374,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18395,7 +18407,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18428,7 +18440,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18461,7 +18473,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18494,7 +18506,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18527,7 +18539,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18560,7 +18572,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18593,7 +18605,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18626,7 +18638,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18659,7 +18671,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -18692,7 +18704,7 @@ app.showView('problem4');
 
           image9: {
             name: "image9",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18726,7 +18738,7 @@ window.open('https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/vie
 
           image7: {
             name: "image7",
-            url: "images/476591147_1130202868426835_5074401085170488177_n.png",
+            url: "app/images/476591147_1130202868426835_5074401085170488177_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18737,6 +18749,39 @@ window.open('https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/vie
             loadHandler() {},
             errorHandler() {},
             clickHandler() {},
+            dblclickHandler() {},
+            mouseupHandler() {},
+            mousedownHandler() {},
+            mousemoveHandler() {},
+            mouseenterHandler() {},
+            mouseleaveHandler() {},
+            contextmenuHandler() {}
+          },
+
+          image5: {
+            name: "image5",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
+            classes: "",
+            description: "",
+            title: " Created with Unregistered DecSoft App Builder",
+            imageFit: "contain",
+            hidden: false,
+            disabled: false,
+            event: null,
+            loadHandler() {},
+            errorHandler() {},
+
+            clickHandler(event) {
+              let
+                view = app._getCurrentView(),
+                views = app._getLoadedViews(),
+                frames = app._getLoadedFrames(),
+                dialogs = app._getLoadedDialogs(),
+                self = views["learning4"].image5;
+                self.event = event;
+
+window.open('https://www.canva.com/design/DAGi12Vx370/aTl2EUQ9hbQtyCm8DrgzVA/watch?utm_content=DAGi12Vx370&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h54ec83ed27', '_system');
+            },
             dblclickHandler() {},
             mouseupHandler() {},
             mousedownHandler() {},
@@ -18871,17 +18916,9 @@ window.open('https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/vie
         }
     },
       template: `<!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->
-<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="learning4" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image2"></dab-image><dab-html v-bind="html1"><div style="position: relative; width: 80%; max-width: 853px; height: 0; padding-top: 46.2203%;
- margin: 0 auto; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
-    src="https://www.canva.com/design/DAGUF2C2ikM/fnX-wqx6acDsV2rB8P9ukw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-</dab-html><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image7"></dab-image></div></transition>
+<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="learning4" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image7"></dab-image><dab-image v-bind="image5"></dab-image></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
-
 const learning5 = {
  components: DabComponents,
  created() {
@@ -18900,7 +18937,7 @@ const learning5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18922,7 +18959,7 @@ const learning5 = {
 
           image2: {
             name: "image2",
-            url: "images/467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18953,25 +18990,9 @@ app.showDialog('dialoghandout5');
             contextmenuHandler() {}
           },
 
-          html1: {
-            name: "html1",
-            classes: "",
-            title: " Created with Unregistered DecSoft App Builder",
-            hidden: true,
-            event: null,
-            clickHandler() {},
-            dblclickHandler() {},
-            mouseupHandler() {},
-            mousedownHandler() {},
-            mousemoveHandler() {},
-            mouseenterHandler() {},
-            mouseleaveHandler() {},
-            contextmenuHandler() {}
-          },
-
           image4: {
             name: "image4",
-            url: "images/467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19003,43 +19024,9 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
             contextmenuHandler() {}
           },
 
-          image5: {
-            name: "image5",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
-            classes: "",
-            description: "",
-            title: " Created with Unregistered DecSoft App Builder",
-            imageFit: "contain",
-            hidden: true,
-            disabled: false,
-            event: null,
-            loadHandler() {},
-            errorHandler() {},
-
-            clickHandler(event) {
-              let
-                view = app._getCurrentView(),
-                views = app._getLoadedViews(),
-                frames = app._getLoadedFrames(),
-                dialogs = app._getLoadedDialogs(),
-                self = views["learning5"].image5;
-                self.event = event;
-
-window.open('https://www.canva.com/design/DAGamGrYayI/tkHgzTDFCb-fswmW_9Zj_g/view?utm_content=DAGamGrYayI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h26fbcd2ed9', '_system');
-
-            },
-            dblclickHandler() {},
-            mouseupHandler() {},
-            mousedownHandler() {},
-            mousemoveHandler() {},
-            mouseenterHandler() {},
-            mouseleaveHandler() {},
-            contextmenuHandler() {}
-          },
-
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19072,7 +19059,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19094,7 +19081,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19127,7 +19114,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19160,7 +19147,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19193,7 +19180,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19226,7 +19213,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19259,7 +19246,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19292,7 +19279,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19325,7 +19312,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19358,7 +19345,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19391,7 +19378,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19424,7 +19411,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19457,7 +19444,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19490,7 +19477,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19523,7 +19510,7 @@ app.showView('problem5');
 
           image9: {
             name: "image9",
-            url: "images/472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19557,7 +19544,7 @@ window.open('https://www.canva.com/design/DAGamGrYayI/tkHgzTDFCb-fswmW_9Zj_g/vie
 
           image7: {
             name: "image7",
-            url: "images/476591147_1130202868426835_5074401085170488177_n.png",
+            url: "app/images/476591147_1130202868426835_5074401085170488177_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19568,6 +19555,39 @@ window.open('https://www.canva.com/design/DAGamGrYayI/tkHgzTDFCb-fswmW_9Zj_g/vie
             loadHandler() {},
             errorHandler() {},
             clickHandler() {},
+            dblclickHandler() {},
+            mouseupHandler() {},
+            mousedownHandler() {},
+            mousemoveHandler() {},
+            mouseenterHandler() {},
+            mouseleaveHandler() {},
+            contextmenuHandler() {}
+          },
+
+          image5: {
+            name: "image5",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
+            classes: "",
+            description: "",
+            title: " Created with Unregistered DecSoft App Builder",
+            imageFit: "contain",
+            hidden: false,
+            disabled: false,
+            event: null,
+            loadHandler() {},
+            errorHandler() {},
+
+            clickHandler(event) {
+              let
+                view = app._getCurrentView(),
+                views = app._getLoadedViews(),
+                frames = app._getLoadedFrames(),
+                dialogs = app._getLoadedDialogs(),
+                self = views["learning5"].image5;
+                self.event = event;
+
+window.open('https://www.youtube.com/watch?v=7PeenJ-mspI', '_system');
+            },
             dblclickHandler() {},
             mouseupHandler() {},
             mousedownHandler() {},
@@ -19702,17 +19722,9 @@ window.open('https://www.canva.com/design/DAGamGrYayI/tkHgzTDFCb-fswmW_9Zj_g/vie
         }
     },
       template: `<!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->
-<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="learning5" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image2"></dab-image><dab-html v-bind="html1"><div style="position: relative; width: 80%; max-width: 853px; height: 0; padding-top: 46.2203%;
- margin: 0 auto; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
-    src="https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-</dab-html><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image7"></dab-image></div></transition>
+<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="learning5" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image9"></dab-image><dab-image v-bind="image7"></dab-image><dab-image v-bind="image5"></dab-image></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
-
 const compre1 = {
  components: DabComponents,
  created() {
@@ -19731,7 +19743,7 @@ const compre1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476763366_959451682999262_4011816299611181300_n.png",
+            url: "app/images/476763366_959451682999262_4011816299611181300_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19752,7 +19764,7 @@ const compre1 = {
           },
           image2: {
             name: "image2",
-            url: "images/467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19786,7 +19798,7 @@ window.open('https://play.blooket.com/play?hwId=677055482bf8fe984820cd61', '_sys
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19819,7 +19831,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19852,7 +19864,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19885,7 +19897,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19918,7 +19930,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19951,7 +19963,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -19984,7 +19996,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20017,7 +20029,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20050,7 +20062,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20083,7 +20095,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20116,7 +20128,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20149,7 +20161,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20182,7 +20194,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20215,7 +20227,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20394,7 +20406,7 @@ const compre2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476351615_2486402515033975_7664912422789698468_n.jpg",
+            url: "app/images/476351615_2486402515033975_7664912422789698468_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20415,7 +20427,7 @@ const compre2 = {
           },
           image2: {
             name: "image2",
-            url: "images/467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20449,7 +20461,7 @@ window.open('https://play.blooket.com/play?hwId=677546f8040608efa3f0d9c4', '_sys
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20482,7 +20494,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20515,7 +20527,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20548,7 +20560,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20581,7 +20593,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20614,7 +20626,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20647,7 +20659,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20680,7 +20692,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20713,7 +20725,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20746,7 +20758,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20779,7 +20791,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20812,7 +20824,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20845,7 +20857,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -20878,7 +20890,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21057,7 +21069,7 @@ const compre3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/478033704_2108150082979335_4973073329385684605_n.jpg",
+            url: "app/images/478033704_2108150082979335_4973073329385684605_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21078,7 +21090,7 @@ const compre3 = {
           },
           image2: {
             name: "image2",
-            url: "images/467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21112,7 +21124,7 @@ window.open('https://play.blooket.com/play?hwId=677547e9322992275db5399f', '_sys
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21145,7 +21157,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21178,7 +21190,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21211,7 +21223,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21244,7 +21256,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21277,7 +21289,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21310,7 +21322,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21343,7 +21355,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21376,7 +21388,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21409,7 +21421,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21442,7 +21454,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21475,7 +21487,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21508,7 +21520,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21541,7 +21553,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21720,7 +21732,7 @@ const compre4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/479930678_1191382412334598_7376773131780785505_n.jpg",
+            url: "app/images/479930678_1191382412334598_7376773131780785505_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21741,7 +21753,7 @@ const compre4 = {
           },
           image2: {
             name: "image2",
-            url: "images/467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21775,7 +21787,7 @@ window.open('https://play.blooket.com/play?hwId=677548312bf8fe984820cf75', '_sys
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21808,7 +21820,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21841,7 +21853,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21874,7 +21886,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21907,7 +21919,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21940,7 +21952,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -21973,7 +21985,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22006,7 +22018,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22039,7 +22051,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22072,7 +22084,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22105,7 +22117,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22138,7 +22150,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22171,7 +22183,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22204,7 +22216,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22383,7 +22395,7 @@ const compre5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/476331565_986871246687980_2585341981872721555_n.jpg",
+            url: "app/images/476331565_986871246687980_2585341981872721555_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22404,7 +22416,7 @@ const compre5 = {
           },
           image2: {
             name: "image2",
-            url: "images/467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22438,7 +22450,7 @@ window.open('https://play.blooket.com/play?hwId=6775486b322992275db539a1', '_sys
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22471,7 +22483,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22504,7 +22516,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22537,7 +22549,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22570,7 +22582,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22603,7 +22615,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22636,7 +22648,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22669,7 +22681,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22702,7 +22714,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22735,7 +22747,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22768,7 +22780,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22801,7 +22813,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22834,7 +22846,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -22867,7 +22879,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23046,7 +23058,7 @@ const scaf1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23068,7 +23080,7 @@ const scaf1 = {
 
           image2: {
             name: "image2",
-            url: "images/467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23102,7 +23114,7 @@ window.open('https://www.canva.com/design/DAGdfosEOOw/5zXfU8m1V62lK7pUfVzo1w/vie
 
           image5: {
             name: "image5",
-            url: "images/474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23124,7 +23136,7 @@ window.open('https://www.canva.com/design/DAGdfosEOOw/5zXfU8m1V62lK7pUfVzo1w/vie
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23157,7 +23169,7 @@ app.showSidebar();
 
           image10: {
             name: "image10",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23190,7 +23202,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23223,7 +23235,7 @@ app.showDialog('dialogscafmeta');
 
           image6: {
             name: "image6",
-            url: "images/467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23257,7 +23269,7 @@ app.showDialog('dialogscafproce');
 
           image11: {
             name: "image11",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23290,7 +23302,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23323,7 +23335,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23356,7 +23368,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23389,7 +23401,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23422,7 +23434,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23455,7 +23467,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23488,7 +23500,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23521,7 +23533,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23554,7 +23566,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23587,7 +23599,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23620,7 +23632,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23653,7 +23665,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -23686,7 +23698,7 @@ app.showView('problem1');
 
           image4: {
             name: "image4",
-            url: "images/474785199_1818178932269063_1466247874035543963_n.png",
+            url: "app/images/474785199_1818178932269063_1466247874035543963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23853,7 +23865,7 @@ const scaf2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23875,7 +23887,7 @@ const scaf2 = {
 
           image2: {
             name: "image2",
-            url: "images/467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23909,7 +23921,7 @@ window.open('https://www.canva.com/design/DAGapO3mHcY/3nmSEb2tgIbX8kDr8fhOzA/vie
 
           image4: {
             name: "image4",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23942,7 +23954,7 @@ app.showDialog('dialogscafstretegic');
 
           image6: {
             name: "image6",
-            url: "images/467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23976,7 +23988,7 @@ app.showDialog('dialogscafproce');
 
           image5: {
             name: "image5",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24009,7 +24021,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image8: {
             name: "image8",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24042,7 +24054,7 @@ app.showDialog('dialogscafmeta');
 
           image9: {
             name: "image9",
-            url: "images/474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24064,7 +24076,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24097,7 +24109,7 @@ app.showSidebar();
 
           image11: {
             name: "image11",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24130,7 +24142,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24163,7 +24175,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24196,7 +24208,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24229,7 +24241,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24262,7 +24274,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24295,7 +24307,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24328,7 +24340,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24361,7 +24373,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24394,7 +24406,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24427,7 +24439,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24460,7 +24472,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24493,7 +24505,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -24526,7 +24538,7 @@ app.showView('problem2');
 
           image7: {
             name: "image7",
-            url: "images/474785199_1818178932269063_1466247874035543963_n.png",
+            url: "app/images/474785199_1818178932269063_1466247874035543963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24693,7 +24705,7 @@ const scaf3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24715,7 +24727,7 @@ const scaf3 = {
 
           image2: {
             name: "image2",
-            url: "images/467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24749,7 +24761,7 @@ window.open('https://www.canva.com/design/DAGapLbUQJY/ep_T4Iaiquwq3LGMvBM_BA/vie
 
           image4: {
             name: "image4",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24783,7 +24795,7 @@ window.open('https://www.canva.com/design/DAGUaotGBRg/dtEvTg9JuXa-sjsQiuVISQ/vie
 
           image5: {
             name: "image5",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24816,7 +24828,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image6: {
             name: "image6",
-            url: "images/467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24850,7 +24862,7 @@ app.showDialog('dialogscafproce');
 
           image7: {
             name: "image7",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24882,7 +24894,7 @@ app.showDialog('dialogscafstretegic');
           },
           image8: {
             name: "image8",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24915,7 +24927,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24948,7 +24960,7 @@ app.showSidebar();
 
           image9: {
             name: "image9",
-            url: "images/474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24970,7 +24982,7 @@ app.showSidebar();
 
           image12: {
             name: "image12",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25003,7 +25015,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25036,7 +25048,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25069,7 +25081,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25102,7 +25114,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25135,7 +25147,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25168,7 +25180,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25201,7 +25213,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25234,7 +25246,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25267,7 +25279,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25300,7 +25312,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25333,7 +25345,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25366,7 +25378,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25399,7 +25411,7 @@ app.showView('problem3');
 
           image10: {
             name: "image10",
-            url: "images/474785199_1818178932269063_1466247874035543963_n.png",
+            url: "app/images/474785199_1818178932269063_1466247874035543963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25566,7 +25578,7 @@ const scaf4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25588,7 +25600,7 @@ const scaf4 = {
 
           image2: {
             name: "image2",
-            url: "images/467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25622,7 +25634,7 @@ window.open('https://www.canva.com/design/DAGapH3MbI0/N-sgqV19ryV2WR6xnzy_CA/vie
 
           image4: {
             name: "image4",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25656,7 +25668,7 @@ window.open('https://www.canva.com/design/DAGUaotGBRg/dtEvTg9JuXa-sjsQiuVISQ/vie
 
           image5: {
             name: "image5",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25689,7 +25701,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image6: {
             name: "image6",
-            url: "images/467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25723,7 +25735,7 @@ app.showDialog('dialogscafproce');
 
           image7: {
             name: "image7",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25756,7 +25768,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25789,7 +25801,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25822,7 +25834,7 @@ app.showSidebar();
 
           image9: {
             name: "image9",
-            url: "images/474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25844,7 +25856,7 @@ app.showSidebar();
 
           image12: {
             name: "image12",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25877,7 +25889,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25910,7 +25922,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25943,7 +25955,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -25976,7 +25988,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26009,7 +26021,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26042,7 +26054,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26075,7 +26087,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26108,7 +26120,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26141,7 +26153,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26174,7 +26186,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26207,7 +26219,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26240,7 +26252,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26273,7 +26285,7 @@ app.showView('problem4');
 
           image10: {
             name: "image10",
-            url: "images/474785199_1818178932269063_1466247874035543963_n.png",
+            url: "app/images/474785199_1818178932269063_1466247874035543963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26440,7 +26452,7 @@ const scaf5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26462,7 +26474,7 @@ const scaf5 = {
 
           image2: {
             name: "image2",
-            url: "images/467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26496,7 +26508,7 @@ window.open('https://www.canva.com/design/DAGapJuUYO0/8WwV15-7cRIGOOBR4B9rbw/vie
 
           image4: {
             name: "image4",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26530,7 +26542,7 @@ window.open('https://www.canva.com/design/DAGUaotGBRg/dtEvTg9JuXa-sjsQiuVISQ/vie
 
           image5: {
             name: "image5",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26563,7 +26575,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image6: {
             name: "image6",
-            url: "images/467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26597,7 +26609,7 @@ app.showDialog('dialogscafproce');
 
           image7: {
             name: "image7",
-            url: "images/467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26630,7 +26642,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images/467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26663,7 +26675,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26696,7 +26708,7 @@ app.showSidebar();
 
           image9: {
             name: "image9",
-            url: "images/474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26718,7 +26730,7 @@ app.showSidebar();
 
           image12: {
             name: "image12",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26751,7 +26763,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26784,7 +26796,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26817,7 +26829,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26850,7 +26862,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26883,7 +26895,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26916,7 +26928,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26949,7 +26961,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -26982,7 +26994,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27015,7 +27027,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27048,7 +27060,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27081,7 +27093,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27114,7 +27126,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27147,7 +27159,7 @@ app.showView('problem5');
 
           image10: {
             name: "image10",
-            url: "images/474785199_1818178932269063_1466247874035543963_n.png",
+            url: "app/images/474785199_1818178932269063_1466247874035543963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27314,7 +27326,7 @@ const task11 = {
           app: this.$root,
           image5: {
             name: "image5",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27347,7 +27359,7 @@ app.showView('task52');
 
           image9: {
             name: "image9",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27412,7 +27424,7 @@ app.showDialog('Anstask11');
 
           image10: {
             name: "image10",
-            url: "images/474099679_2846010065573560_1931499821261817933_n.png",
+            url: "app/images/474099679_2846010065573560_1931499821261817933_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27434,7 +27446,7 @@ app.showDialog('Anstask11');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27467,7 +27479,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27500,7 +27512,7 @@ app.showView('home');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27522,7 +27534,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476433489_9523350064363976_295398660081888921_n.png",
+            url: "app/images/476433489_9523350064363976_295398660081888921_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27544,7 +27556,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27577,7 +27589,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27610,7 +27622,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27643,7 +27655,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27676,7 +27688,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27709,7 +27721,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27742,7 +27754,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27775,7 +27787,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27808,7 +27820,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27841,7 +27853,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27874,7 +27886,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27907,7 +27919,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -27940,7 +27952,7 @@ app.showView('problem1');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27973,7 +27985,7 @@ app.showView('task12');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28006,7 +28018,7 @@ app.showDialog('dialogtask1');
 
           image6: {
             name: "image6",
-            url: "images/474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28205,7 +28217,7 @@ const task21 = {
 
           image10: {
             name: "image10",
-            url: "images/476344375_609616938543053_6126202712237727399_n.png",
+            url: "app/images/476344375_609616938543053_6126202712237727399_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28227,7 +28239,7 @@ const task21 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28260,7 +28272,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28293,7 +28305,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476433489_9523350064363976_295398660081888921_n.png",
+            url: "app/images/476433489_9523350064363976_295398660081888921_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28315,7 +28327,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28348,7 +28360,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28381,7 +28393,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28414,7 +28426,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28447,7 +28459,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28480,7 +28492,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28513,7 +28525,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28546,7 +28558,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28579,7 +28591,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28612,7 +28624,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28645,7 +28657,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28678,7 +28690,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -28711,7 +28723,7 @@ app.showView('problem2');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28744,7 +28756,7 @@ app.showDialog('Anstask21');
 
           image5: {
             name: "image5",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28777,7 +28789,7 @@ app.showView('task22');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28799,7 +28811,7 @@ app.showView('task22');
 
           image9: {
             name: "image9",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28832,7 +28844,7 @@ app.showDialog('dialogtask2');
 
           image6: {
             name: "image6",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -28999,7 +29011,7 @@ const task31 = {
           app: this.$root,
           image10: {
             name: "image10",
-            url: "images/476308587_1349729532866442_4693177801836184684_n.png",
+            url: "app/images/476308587_1349729532866442_4693177801836184684_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29021,7 +29033,7 @@ const task31 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29054,7 +29066,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29087,7 +29099,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476433489_9523350064363976_295398660081888921_n.png",
+            url: "app/images/476433489_9523350064363976_295398660081888921_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29109,7 +29121,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29142,7 +29154,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29175,7 +29187,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29208,7 +29220,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29241,7 +29253,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29274,7 +29286,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29307,7 +29319,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29340,7 +29352,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29373,7 +29385,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29406,7 +29418,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29439,7 +29451,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29472,7 +29484,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29505,7 +29517,7 @@ app.showView('problem3');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29538,7 +29550,7 @@ app.showDialog('Anstask31');
 
           image5: {
             name: "image5",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29571,7 +29583,7 @@ app.showView('task32');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29593,7 +29605,7 @@ app.showView('task32');
 
           image9: {
             name: "image9",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29626,7 +29638,7 @@ app.showDialog('dialogtask3');
 
           image6: {
             name: "image6",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29825,7 +29837,7 @@ const task41 = {
 
           image10: {
             name: "image10",
-            url: "images/476408513_1281728906236739_3387605148536391045_n.png",
+            url: "app/images/476408513_1281728906236739_3387605148536391045_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29847,7 +29859,7 @@ const task41 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29880,7 +29892,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29913,7 +29925,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476433489_9523350064363976_295398660081888921_n.png",
+            url: "app/images/476433489_9523350064363976_295398660081888921_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -29935,7 +29947,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -29968,7 +29980,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30001,7 +30013,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30034,7 +30046,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30067,7 +30079,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30100,7 +30112,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30133,7 +30145,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30166,7 +30178,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30199,7 +30211,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30232,7 +30244,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30265,7 +30277,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30298,7 +30310,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30331,7 +30343,7 @@ app.showView('problem4');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30364,7 +30376,7 @@ app.showDialog('Anstask41');
 
           image5: {
             name: "image5",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30397,7 +30409,7 @@ app.showView('task42');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30419,7 +30431,7 @@ app.showView('task42');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30452,7 +30464,7 @@ app.showDialog('dialogtask4');
 
           image9: {
             name: "image9",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30651,7 +30663,7 @@ const task51 = {
 
           image10: {
             name: "image10",
-            url: "images/476287478_1395863714921632_5790542856942085580_n.png",
+            url: "app/images/476287478_1395863714921632_5790542856942085580_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30673,7 +30685,7 @@ const task51 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30706,7 +30718,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30739,7 +30751,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476433489_9523350064363976_295398660081888921_n.png",
+            url: "app/images/476433489_9523350064363976_295398660081888921_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -30761,7 +30773,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30794,7 +30806,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30827,7 +30839,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30860,7 +30872,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30893,7 +30905,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30926,7 +30938,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30959,7 +30971,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -30992,7 +31004,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31025,7 +31037,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31058,7 +31070,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31091,7 +31103,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31124,7 +31136,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31157,7 +31169,7 @@ app.showView('problem5');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31190,7 +31202,7 @@ app.showDialog('Anstask51');
 
           image5: {
             name: "image5",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31223,7 +31235,7 @@ app.showView('task52');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31245,7 +31257,7 @@ app.showView('task52');
 
           image9: {
             name: "image9",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31278,7 +31290,7 @@ app.showDialog('dialogtask5');
 
           image4: {
             name: "image4",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31445,7 +31457,7 @@ const taskbot11 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31467,7 +31479,7 @@ const taskbot11 = {
 
           image4: {
             name: "image4",
-            url: "images/473592559_601148519550062_889866932362339318_n.png",
+            url: "app/images/473592559_601148519550062_889866932362339318_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31489,7 +31501,7 @@ const taskbot11 = {
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31522,7 +31534,7 @@ app.showView('taskbot12');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31555,7 +31567,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31588,7 +31600,7 @@ app.showDialog('Ansbot11');
 
           image7: {
             name: "image7",
-            url: "images/474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31609,7 +31621,7 @@ app.showDialog('Ansbot11');
           },
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -31642,7 +31654,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31675,7 +31687,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31708,7 +31720,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31741,7 +31753,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31774,7 +31786,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31807,7 +31819,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31840,7 +31852,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31873,7 +31885,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31906,7 +31918,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31939,7 +31951,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -31972,7 +31984,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32005,7 +32017,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32184,7 +32196,7 @@ const taskbot12 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32205,7 +32217,7 @@ const taskbot12 = {
           },
           image4: {
             name: "image4",
-            url: "images/474464072_1511321306202188_1452082286517060408_n.png",
+            url: "app/images/474464072_1511321306202188_1452082286517060408_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32227,7 +32239,7 @@ const taskbot12 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32260,7 +32272,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32293,7 +32305,7 @@ app.showDialog('Ansbot12');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32326,7 +32338,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32359,7 +32371,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32392,7 +32404,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32425,7 +32437,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32458,7 +32470,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32491,7 +32503,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32524,7 +32536,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32557,7 +32569,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32590,7 +32602,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32623,7 +32635,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32656,7 +32668,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32689,7 +32701,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -32722,7 +32734,7 @@ app.showView('problem1');
 
           image5: {
             name: "image5",
-            url: "images/476743641_2846354178869022_7448484960638060695_n.png",
+            url: "app/images/476743641_2846354178869022_7448484960638060695_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32743,7 +32755,7 @@ app.showView('problem1');
           },
           image9: {
             name: "image9",
-            url: "images/476392728_1417873409185128_5607605127981038768_n.png",
+            url: "app/images/476392728_1417873409185128_5607605127981038768_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32776,7 +32788,7 @@ app.showView('problem2');
 
           image7: {
             name: "image7",
-            url: "images/474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32944,7 +32956,7 @@ const taskbot21 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32966,7 +32978,7 @@ const taskbot21 = {
 
           image4: {
             name: "image4",
-            url: "images/475331969_1146353467152886_2448720116126123226_n.png",
+            url: "app/images/475331969_1146353467152886_2448720116126123226_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -32988,7 +33000,7 @@ const taskbot21 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33021,7 +33033,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33054,7 +33066,7 @@ app.showView('taskbot23');
 
           image7: {
             name: "image7",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33075,7 +33087,7 @@ app.showView('taskbot23');
           },
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33108,7 +33120,7 @@ app.showDialog('Ansbot21');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33141,7 +33153,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33174,7 +33186,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33207,7 +33219,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33240,7 +33252,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33273,7 +33285,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33306,7 +33318,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33339,7 +33351,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33372,7 +33384,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33405,7 +33417,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33438,7 +33450,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33471,7 +33483,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33504,7 +33516,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33683,7 +33695,7 @@ const taskbot22 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33705,7 +33717,7 @@ const taskbot22 = {
 
           image4: {
             name: "image4",
-            url: "images/474090299_964147402290073_311475185500929914_n.png",
+            url: "app/images/474090299_964147402290073_311475185500929914_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33727,7 +33739,7 @@ const taskbot22 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33760,7 +33772,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33793,7 +33805,7 @@ app.showDialog('Ansbot22');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33826,7 +33838,7 @@ app.showView('taskbot23');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -33859,7 +33871,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33892,7 +33904,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33925,7 +33937,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33958,7 +33970,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -33991,7 +34003,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34024,7 +34036,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34057,7 +34069,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34090,7 +34102,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34123,7 +34135,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34156,7 +34168,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34189,7 +34201,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34222,7 +34234,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34255,7 +34267,7 @@ app.showView('problem2');
 
           image7: {
             name: "image7",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34422,7 +34434,7 @@ const taskbot23 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34444,7 +34456,7 @@ const taskbot23 = {
 
           image4: {
             name: "image4",
-            url: "images/476153785_543158948044163_780812735062597625_n.png",
+            url: "app/images/476153785_543158948044163_780812735062597625_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34466,7 +34478,7 @@ const taskbot23 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34499,7 +34511,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34532,7 +34544,7 @@ app.showDialog('Ansbot22');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34565,7 +34577,7 @@ app.showView('taskbot24');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -34598,7 +34610,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34631,7 +34643,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34664,7 +34676,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34697,7 +34709,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34730,7 +34742,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34763,7 +34775,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34796,7 +34808,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34829,7 +34841,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34862,7 +34874,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34895,7 +34907,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34928,7 +34940,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34961,7 +34973,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -34994,7 +35006,7 @@ app.showView('problem2');
 
           image7: {
             name: "image7",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35161,7 +35173,7 @@ const taskbot24 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35183,7 +35195,7 @@ const taskbot24 = {
 
           image4: {
             name: "image4",
-            url: "images/476015734_1150197120027996_877754063618886068_n.png",
+            url: "app/images/476015734_1150197120027996_877754063618886068_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35205,7 +35217,7 @@ const taskbot24 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35238,7 +35250,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35271,7 +35283,7 @@ app.showDialog('Ansbot23');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35304,7 +35316,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35337,7 +35349,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35370,7 +35382,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35403,7 +35415,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35436,7 +35448,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35469,7 +35481,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35502,7 +35514,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35535,7 +35547,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35568,7 +35580,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35601,7 +35613,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35634,7 +35646,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35667,7 +35679,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -35700,7 +35712,7 @@ app.showView('problem2');
 
           image2: {
             name: "image2",
-            url: "images/476392728_1417873409185128_5607605127981038768_n.png",
+            url: "app/images/476392728_1417873409185128_5607605127981038768_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35733,7 +35745,7 @@ app.showView('problem3');
 
           image5: {
             name: "image5",
-            url: "images/479515235_561611790245422_7159315729915044798_n.png",
+            url: "app/images/479515235_561611790245422_7159315729915044798_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35755,7 +35767,7 @@ app.showView('problem3');
 
           image7: {
             name: "image7",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35922,7 +35934,7 @@ const taskbot31 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35944,7 +35956,7 @@ const taskbot31 = {
 
           image4: {
             name: "image4",
-            url: "images/474085037_1783939459029588_2028450333057637848_n.png",
+            url: "app/images/474085037_1783939459029588_2028450333057637848_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35966,7 +35978,7 @@ const taskbot31 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -35999,7 +36011,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36032,7 +36044,7 @@ app.showView('taskbot32');
 
           image5: {
             name: "image5",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36053,7 +36065,7 @@ app.showView('taskbot32');
           },
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36086,7 +36098,7 @@ app.showDialog('Ansbot31');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36119,7 +36131,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36152,7 +36164,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36185,7 +36197,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36218,7 +36230,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36251,7 +36263,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36284,7 +36296,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36317,7 +36329,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36350,7 +36362,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36383,7 +36395,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36416,7 +36428,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36449,7 +36461,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36482,7 +36494,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36661,7 +36673,7 @@ const taskbot32 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36683,7 +36695,7 @@ const taskbot32 = {
 
           image4: {
             name: "image4",
-            url: "images/474328383_2416384708692897_8113683139594100662_n.png",
+            url: "app/images/474328383_2416384708692897_8113683139594100662_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36705,7 +36717,7 @@ const taskbot32 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36738,7 +36750,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36771,7 +36783,7 @@ app.showDialog('Ansbot32');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36804,7 +36816,7 @@ app.showView('taskbot33');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -36837,7 +36849,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36870,7 +36882,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36903,7 +36915,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36936,7 +36948,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -36969,7 +36981,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37002,7 +37014,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37035,7 +37047,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37068,7 +37080,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37101,7 +37113,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37134,7 +37146,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37167,7 +37179,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37200,7 +37212,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37233,7 +37245,7 @@ app.showView('problem3');
 
           image5: {
             name: "image5",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37400,7 +37412,7 @@ const taskbot33 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37422,7 +37434,7 @@ const taskbot33 = {
 
           image4: {
             name: "image4",
-            url: "images/474032930_896726652535793_5109335655934413690_n.png",
+            url: "app/images/474032930_896726652535793_5109335655934413690_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37444,7 +37456,7 @@ const taskbot33 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37477,7 +37489,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37510,7 +37522,7 @@ app.showDialog('Ansbot33');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37543,7 +37555,7 @@ app.showView('taskbot34');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -37576,7 +37588,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37609,7 +37621,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37642,7 +37654,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37675,7 +37687,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37708,7 +37720,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37741,7 +37753,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37774,7 +37786,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37807,7 +37819,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37840,7 +37852,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37873,7 +37885,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37906,7 +37918,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37939,7 +37951,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -37972,7 +37984,7 @@ app.showView('problem3');
 
           image5: {
             name: "image5",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38139,7 +38151,7 @@ const taskbot34 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38161,7 +38173,7 @@ const taskbot34 = {
 
           image4: {
             name: "image4",
-            url: "images/474066611_1356626942436049_6249140777570012287_n.png",
+            url: "app/images/474066611_1356626942436049_6249140777570012287_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38183,7 +38195,7 @@ const taskbot34 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38216,7 +38228,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38249,7 +38261,7 @@ app.showDialog('Ansbot34');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38282,7 +38294,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38315,7 +38327,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38348,7 +38360,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38381,7 +38393,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38414,7 +38426,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38447,7 +38459,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38480,7 +38492,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38513,7 +38525,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38546,7 +38558,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38579,7 +38591,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38612,7 +38624,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38645,7 +38657,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -38678,7 +38690,7 @@ app.showView('problem3');
 
           image2: {
             name: "image2",
-            url: "images/476392728_1417873409185128_5607605127981038768_n.png",
+            url: "app/images/476392728_1417873409185128_5607605127981038768_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38711,7 +38723,7 @@ app.showView('problem4');
 
           image7: {
             name: "image7",
-            url: "images/476616422_657008370230897_9014716100675270885_n.png",
+            url: "app/images/476616422_657008370230897_9014716100675270885_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38732,7 +38744,7 @@ app.showView('problem4');
           },
           image5: {
             name: "image5",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38900,7 +38912,7 @@ const taskbot41 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38922,7 +38934,7 @@ const taskbot41 = {
 
           image4: {
             name: "image4",
-            url: "images/474522066_1298422438060854_1943706326278233682_n.png",
+            url: "app/images/474522066_1298422438060854_1943706326278233682_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38944,7 +38956,7 @@ const taskbot41 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -38977,7 +38989,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39010,7 +39022,7 @@ app.showDialog('Ansbot41');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39043,7 +39055,7 @@ app.showView('taskbot42');
 
           image5: {
             name: "image5",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39064,7 +39076,7 @@ app.showView('taskbot42');
           },
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39097,7 +39109,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39130,7 +39142,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39163,7 +39175,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39196,7 +39208,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39229,7 +39241,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39262,7 +39274,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39295,7 +39307,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39328,7 +39340,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39361,7 +39373,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39394,7 +39406,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39427,7 +39439,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39460,7 +39472,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39639,7 +39651,7 @@ const taskbot42 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39661,7 +39673,7 @@ const taskbot42 = {
 
           image4: {
             name: "image4",
-            url: "images/473830157_9040264419400240_7257596282803200382_n.png",
+            url: "app/images/473830157_9040264419400240_7257596282803200382_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39683,7 +39695,7 @@ const taskbot42 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39716,7 +39728,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39749,7 +39761,7 @@ app.showDialog('Ansbot42');
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39782,7 +39794,7 @@ app.showView('taskbot43');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -39815,7 +39827,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39848,7 +39860,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39881,7 +39893,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39914,7 +39926,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39947,7 +39959,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -39980,7 +39992,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40013,7 +40025,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40046,7 +40058,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40079,7 +40091,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40112,7 +40124,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40145,7 +40157,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40178,7 +40190,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40211,7 +40223,7 @@ app.showView('problem4');
 
           image5: {
             name: "image5",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40378,7 +40390,7 @@ const taskbot43 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40400,7 +40412,7 @@ const taskbot43 = {
 
           image4: {
             name: "image4",
-            url: "images/474737497_2276881642708071_2699237729502973918_n.png",
+            url: "app/images/474737497_2276881642708071_2699237729502973918_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40422,7 +40434,7 @@ const taskbot43 = {
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40455,7 +40467,7 @@ app.showDialog('Ansbot43');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40488,7 +40500,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40521,7 +40533,7 @@ app.showView('taskbot44');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -40554,7 +40566,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40587,7 +40599,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40620,7 +40632,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40653,7 +40665,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40686,7 +40698,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40719,7 +40731,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40752,7 +40764,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40785,7 +40797,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40818,7 +40830,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40851,7 +40863,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40884,7 +40896,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40917,7 +40929,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -40950,7 +40962,7 @@ app.showView('problem4');
 
           image5: {
             name: "image5",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41117,7 +41129,7 @@ const taskbot44 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41139,7 +41151,7 @@ const taskbot44 = {
 
           image4: {
             name: "image4",
-            url: "images/474737322_907575204862558_6996927867184385172_n.png",
+            url: "app/images/474737322_907575204862558_6996927867184385172_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41161,7 +41173,7 @@ const taskbot44 = {
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41194,7 +41206,7 @@ app.showDialog('Ansbot44');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41227,7 +41239,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41260,7 +41272,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41293,7 +41305,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41326,7 +41338,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41359,7 +41371,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41392,7 +41404,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41425,7 +41437,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41458,7 +41470,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41491,7 +41503,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41524,7 +41536,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41557,7 +41569,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41590,7 +41602,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41623,7 +41635,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -41656,7 +41668,7 @@ app.showView('problem4');
 
           image2: {
             name: "image2",
-            url: "images/476392728_1417873409185128_5607605127981038768_n.png",
+            url: "app/images/476392728_1417873409185128_5607605127981038768_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41689,7 +41701,7 @@ app.showView('problem5');
 
           image7: {
             name: "image7",
-            url: "images/476302457_597523256456272_5104171346396756364_n.png",
+            url: "app/images/476302457_597523256456272_5104171346396756364_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41710,7 +41722,7 @@ app.showView('problem5');
           },
           image5: {
             name: "image5",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41878,7 +41890,7 @@ const taskbot51 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41900,7 +41912,7 @@ const taskbot51 = {
 
           image4: {
             name: "image4",
-            url: "images/474715690_649968554131533_6929678023121937981_n.png",
+            url: "app/images/474715690_649968554131533_6929678023121937981_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41922,7 +41934,7 @@ const taskbot51 = {
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41955,7 +41967,7 @@ app.showDialog('Ansbot51');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -41988,7 +42000,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42021,7 +42033,7 @@ app.showView('taskbot52');
 
           image7: {
             name: "image7",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42042,7 +42054,7 @@ app.showView('taskbot52');
           },
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42075,7 +42087,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42108,7 +42120,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42141,7 +42153,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42174,7 +42186,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42207,7 +42219,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42240,7 +42252,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42273,7 +42285,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42306,7 +42318,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42339,7 +42351,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42372,7 +42384,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42405,7 +42417,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42438,7 +42450,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42617,7 +42629,7 @@ const taskbot52 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42639,7 +42651,7 @@ const taskbot52 = {
 
           image4: {
             name: "image4",
-            url: "images/474124513_1722647034967085_6998881086417537801_n.png",
+            url: "app/images/474124513_1722647034967085_6998881086417537801_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42661,7 +42673,7 @@ const taskbot52 = {
 
           image6: {
             name: "image6",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42694,7 +42706,7 @@ app.showDialog('Ansbot52');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42727,7 +42739,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42760,7 +42772,7 @@ app.showView('taskbot53');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -42793,7 +42805,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42826,7 +42838,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42859,7 +42871,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42892,7 +42904,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42925,7 +42937,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42958,7 +42970,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -42991,7 +43003,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43024,7 +43036,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43057,7 +43069,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43090,7 +43102,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43123,7 +43135,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43156,7 +43168,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43189,7 +43201,7 @@ app.showView('problem5');
 
           image7: {
             name: "image7",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43356,7 +43368,7 @@ const taskbot53 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43378,7 +43390,7 @@ const taskbot53 = {
 
           image4: {
             name: "image4",
-            url: "images/474083773_2000884590430944_1364545875684377963_n.png",
+            url: "app/images/474083773_2000884590430944_1364545875684377963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43400,7 +43412,7 @@ const taskbot53 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43433,7 +43445,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43466,7 +43478,7 @@ app.showView('taskbot54');
 
           image5: {
             name: "image5",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43499,7 +43511,7 @@ app.showDialog('dialog2');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -43532,7 +43544,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43565,7 +43577,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43598,7 +43610,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43631,7 +43643,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43664,7 +43676,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43697,7 +43709,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43730,7 +43742,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43763,7 +43775,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43796,7 +43808,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43829,7 +43841,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43862,7 +43874,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43895,7 +43907,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -43928,7 +43940,7 @@ app.showView('problem5');
 
           image7: {
             name: "image7",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44095,7 +44107,7 @@ const taskbot54 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44117,7 +44129,7 @@ const taskbot54 = {
 
           image4: {
             name: "image4",
-            url: "images/475954351_1686366151966625_6528910523760472063_n.png",
+            url: "app/images/475954351_1686366151966625_6528910523760472063_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44139,7 +44151,7 @@ const taskbot54 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44172,7 +44184,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44205,7 +44217,7 @@ app.showDialog('dialog3');
 
           image2: {
             name: "image2",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44238,7 +44250,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44271,7 +44283,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44304,7 +44316,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44337,7 +44349,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44370,7 +44382,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44403,7 +44415,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44436,7 +44448,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44469,7 +44481,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44502,7 +44514,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44535,7 +44547,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44568,7 +44580,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44601,7 +44613,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -44634,7 +44646,7 @@ app.showView('problem5');
 
           image7: {
             name: "image7",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44801,7 +44813,7 @@ const mission1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44823,7 +44835,7 @@ const mission1 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44856,7 +44868,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44889,7 +44901,7 @@ app.showView('taskbot11');
 
           image7: {
             name: "image7",
-            url: "images/474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44910,7 +44922,7 @@ app.showView('taskbot11');
           },
           image5: {
             name: "image5",
-            url: "images/474726398_1522906558401151_6483454055501877121_n.png",
+            url: "app/images/474726398_1522906558401151_6483454055501877121_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44932,7 +44944,7 @@ app.showView('taskbot11');
 
           image6: {
             name: "image6",
-            url: "images/474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44954,7 +44966,7 @@ app.showView('taskbot11');
 
           image8: {
             name: "image8",
-            url: "images/475149679_512341351395364_2984589152132021240_n.png",
+            url: "app/images/475149679_512341351395364_2984589152132021240_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -44976,7 +44988,7 @@ app.showView('taskbot11');
 
           image2: {
             name: "image2",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45009,7 +45021,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45042,7 +45054,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45075,7 +45087,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45108,7 +45120,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45141,7 +45153,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45174,7 +45186,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45207,7 +45219,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45240,7 +45252,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45273,7 +45285,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45306,7 +45318,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45339,7 +45351,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45372,7 +45384,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45551,7 +45563,7 @@ const mission2 = {
           app: this.$root,
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45584,7 +45596,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45617,7 +45629,7 @@ app.showView('taskbot21');
 
           image7: {
             name: "image7",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45638,7 +45650,7 @@ app.showView('taskbot21');
           },
           image1: {
             name: "image1",
-            url: "images/474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45660,7 +45672,7 @@ app.showView('taskbot21');
 
           image6: {
             name: "image6",
-            url: "images/474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45682,7 +45694,7 @@ app.showView('taskbot21');
 
           image5: {
             name: "image5",
-            url: "images/472792845_1651199558803154_5544107499508499760_n.png",
+            url: "app/images/472792845_1651199558803154_5544107499508499760_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45704,7 +45716,7 @@ app.showView('taskbot21');
 
           image8: {
             name: "image8",
-            url: "images/475483745_1140787250374630_1271613628675286885_n.png",
+            url: "app/images/475483745_1140787250374630_1271613628675286885_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45726,7 +45738,7 @@ app.showView('taskbot21');
 
           image2: {
             name: "image2",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -45759,7 +45771,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45792,7 +45804,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45825,7 +45837,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45858,7 +45870,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45891,7 +45903,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45924,7 +45936,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45957,7 +45969,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -45990,7 +46002,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46023,7 +46035,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46056,7 +46068,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46089,7 +46101,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46122,7 +46134,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46301,7 +46313,7 @@ const mission3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46323,7 +46335,7 @@ const mission3 = {
 
           image6: {
             name: "image6",
-            url: "images/474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46345,7 +46357,7 @@ const mission3 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46378,7 +46390,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46411,7 +46423,7 @@ app.showView('taskbot31');
 
           image5: {
             name: "image5",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46432,7 +46444,7 @@ app.showView('taskbot31');
           },
           image2: {
             name: "image2",
-            url: "images/474384506_998803928821789_5823328553500811716_n.png",
+            url: "app/images/474384506_998803928821789_5823328553500811716_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46454,7 +46466,7 @@ app.showView('taskbot31');
 
           image7: {
             name: "image7",
-            url: "images/474755706_980057690124912_2872815569924240713_n.png",
+            url: "app/images/474755706_980057690124912_2872815569924240713_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46476,7 +46488,7 @@ app.showView('taskbot31');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -46509,7 +46521,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46542,7 +46554,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46575,7 +46587,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46608,7 +46620,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46641,7 +46653,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46674,7 +46686,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46707,7 +46719,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46740,7 +46752,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46773,7 +46785,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46806,7 +46818,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46839,7 +46851,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -46872,7 +46884,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47051,7 +47063,7 @@ const mission4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47073,7 +47085,7 @@ const mission4 = {
 
           image6: {
             name: "image6",
-            url: "images/474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47095,7 +47107,7 @@ const mission4 = {
 
           image5: {
             name: "image5",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47116,7 +47128,7 @@ const mission4 = {
           },
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47149,7 +47161,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47182,7 +47194,7 @@ app.showView('taskbot41');
 
           image2: {
             name: "image2",
-            url: "images/473084695_589056864097122_5405616986960443947_n.png",
+            url: "app/images/473084695_589056864097122_5405616986960443947_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47204,7 +47216,7 @@ app.showView('taskbot41');
 
           image7: {
             name: "image7",
-            url: "images/472819964_1365975404767585_5553587590848534477_n.png",
+            url: "app/images/472819964_1365975404767585_5553587590848534477_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47226,7 +47238,7 @@ app.showView('taskbot41');
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47259,7 +47271,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47292,7 +47304,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47325,7 +47337,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47358,7 +47370,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47391,7 +47403,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47424,7 +47436,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47457,7 +47469,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47490,7 +47502,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47523,7 +47535,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47556,7 +47568,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47589,7 +47601,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47622,7 +47634,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -47801,7 +47813,7 @@ const mission5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47823,7 +47835,7 @@ const mission5 = {
 
           image6: {
             name: "image6",
-            url: "images/474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47845,7 +47857,7 @@ const mission5 = {
 
           image3: {
             name: "image3",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47878,7 +47890,7 @@ app.showView('taskbot51');
 
           image4: {
             name: "image4",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47911,7 +47923,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47932,7 +47944,7 @@ app.showSidebar();
           },
           image5: {
             name: "image5",
-            url: "images/475945346_1129264468491803_1329627044269042027_n.png",
+            url: "app/images/475945346_1129264468491803_1329627044269042027_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47954,7 +47966,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/474731882_913808690920408_2851399431684049398_n.png",
+            url: "app/images/474731882_913808690920408_2851399431684049398_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -47976,7 +47988,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48009,7 +48021,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48042,7 +48054,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48075,7 +48087,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48108,7 +48120,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48141,7 +48153,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48174,7 +48186,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48207,7 +48219,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48240,7 +48252,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48273,7 +48285,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48306,7 +48318,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48339,7 +48351,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48372,7 +48384,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48551,7 +48563,7 @@ const coaching1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/475255349_9527840030573972_3745284200734011761_n.png",
+            url: "app/images/475255349_9527840030573972_3745284200734011761_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48573,7 +48585,7 @@ const coaching1 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48606,7 +48618,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images/474255573_529825212771293_6366124328733620621_n.png",
+            url: "app/images/474255573_529825212771293_6366124328733620621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48628,7 +48640,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/474320417_2429177594103588_1332739555038677308_n.png",
+            url: "app/images/474320417_2429177594103588_1332739555038677308_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48650,7 +48662,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/474327371_1359827631591452_6482014203021353621_n.png",
+            url: "app/images/474327371_1359827631591452_6482014203021353621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48672,7 +48684,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/473776666_3808937202657807_3730168871219213570_n.png",
+            url: "app/images/473776666_3808937202657807_3730168871219213570_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48694,7 +48706,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -48727,7 +48739,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48760,7 +48772,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48793,7 +48805,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48826,7 +48838,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48859,7 +48871,7 @@ app.showView('coaching2');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48892,7 +48904,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48925,7 +48937,7 @@ app.showView('problem1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48958,7 +48970,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -48991,7 +49003,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49024,7 +49036,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49057,7 +49069,7 @@ app.showView('collaboration1');
 
           imgpush16: {
             name: "imgpush16",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49090,7 +49102,7 @@ app.showView('coaching1');
 
           imgpush17: {
             name: "imgpush17",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49123,7 +49135,7 @@ app.showView('problem1');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49157,7 +49169,7 @@ window.location.href = "mailto:darunpon.p@kkumail.com";
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49190,7 +49202,7 @@ window.location.href = "mailto:nuttmo@kku.ac.th";
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49349,6 +49361,7 @@ window.location.href = "mailto:samart@kku.ac.th";
 <transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="coaching1" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image6"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush12"></dab-image-push><dab-image-push v-bind="imgpush13"></dab-image-push><dab-image-push v-bind="imgpush14"></dab-image-push><dab-image-push v-bind="imgpush15"></dab-image-push><dab-image-push v-bind="imgpush9"></dab-image-push><dab-image-push v-bind="imgpush11"></dab-image-push><dab-image-push v-bind="imgpush10"></dab-image-push><dab-image-push v-bind="imgpush4"></dab-image-push><dab-image-push v-bind="imgpush5"></dab-image-push><dab-image-push v-bind="imgpush7"></dab-image-push><dab-image-push v-bind="imgpush16"></dab-image-push><dab-image-push v-bind="imgpush17"></dab-image-push><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush2"></dab-image-push></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
+
 const coaching2 = {
  components: DabComponents,
  created() {
@@ -49367,7 +49380,7 @@ const coaching2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/475255349_9527840030573972_3745284200734011761_n.png",
+            url: "app/images/475255349_9527840030573972_3745284200734011761_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49389,7 +49402,7 @@ const coaching2 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49422,7 +49435,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/474320417_2429177594103588_1332739555038677308_n.png",
+            url: "app/images/474320417_2429177594103588_1332739555038677308_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49444,7 +49457,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/474327371_1359827631591452_6482014203021353621_n.png",
+            url: "app/images/474327371_1359827631591452_6482014203021353621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49466,7 +49479,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/473776666_3808937202657807_3730168871219213570_n.png",
+            url: "app/images/473776666_3808937202657807_3730168871219213570_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49488,7 +49501,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49521,7 +49534,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49554,7 +49567,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49587,7 +49600,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49620,7 +49633,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49653,7 +49666,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49686,7 +49699,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49719,7 +49732,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49752,7 +49765,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49785,7 +49798,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49818,7 +49831,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49851,7 +49864,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49884,7 +49897,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49917,7 +49930,7 @@ app.showView('problem2');
 
           image6: {
             name: "image6",
-            url: "images/474255573_529825212771293_6366124328733620621_n.png",
+            url: "app/images/474255573_529825212771293_6366124328733620621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -49939,7 +49952,7 @@ app.showView('problem2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -49973,7 +49986,7 @@ window.location.href = "mailto:darunpon.p@kkumail.com";
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50006,7 +50019,7 @@ window.location.href = "mailto:nuttmo@kku.ac.th";
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50165,6 +50178,7 @@ window.location.href = "mailto:samart@kku.ac.th";
 <transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="coaching2" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image6"></dab-image><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush2"></dab-image-push></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
+
 const coaching3 = {
  components: DabComponents,
  created() {
@@ -50183,7 +50197,7 @@ const coaching3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/475255349_9527840030573972_3745284200734011761_n.png",
+            url: "app/images/475255349_9527840030573972_3745284200734011761_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50205,7 +50219,7 @@ const coaching3 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50238,7 +50252,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/474320417_2429177594103588_1332739555038677308_n.png",
+            url: "app/images/474320417_2429177594103588_1332739555038677308_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50260,7 +50274,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/474327371_1359827631591452_6482014203021353621_n.png",
+            url: "app/images/474327371_1359827631591452_6482014203021353621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50282,7 +50296,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/473776666_3808937202657807_3730168871219213570_n.png",
+            url: "app/images/473776666_3808937202657807_3730168871219213570_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50304,7 +50318,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50337,7 +50351,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50370,7 +50384,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50403,7 +50417,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50436,7 +50450,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50469,7 +50483,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50502,7 +50516,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50535,7 +50549,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50568,7 +50582,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50601,7 +50615,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50634,7 +50648,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50667,7 +50681,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50700,7 +50714,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50733,7 +50747,7 @@ app.showView('problem3');
 
           image6: {
             name: "image6",
-            url: "images/474255573_529825212771293_6366124328733620621_n.png",
+            url: "app/images/474255573_529825212771293_6366124328733620621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -50755,7 +50769,7 @@ app.showView('problem3');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50789,7 +50803,7 @@ window.location.href = "mailto:darunpon.p@kkumail.com";
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50822,7 +50836,7 @@ window.location.href = "mailto:nuttmo@kku.ac.th";
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -50981,6 +50995,7 @@ window.location.href = "mailto:samart@kku.ac.th";
 <transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="coaching3" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image6"></dab-image><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush2"></dab-image-push></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
+
 const coaching4 = {
  components: DabComponents,
  created() {
@@ -50999,7 +51014,7 @@ const coaching4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/475255349_9527840030573972_3745284200734011761_n.png",
+            url: "app/images/475255349_9527840030573972_3745284200734011761_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51021,7 +51036,7 @@ const coaching4 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51054,7 +51069,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/474320417_2429177594103588_1332739555038677308_n.png",
+            url: "app/images/474320417_2429177594103588_1332739555038677308_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51076,7 +51091,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/474327371_1359827631591452_6482014203021353621_n.png",
+            url: "app/images/474327371_1359827631591452_6482014203021353621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51098,7 +51113,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/473776666_3808937202657807_3730168871219213570_n.png",
+            url: "app/images/473776666_3808937202657807_3730168871219213570_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51120,7 +51135,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51153,7 +51168,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51186,7 +51201,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51219,7 +51234,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51252,7 +51267,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51285,7 +51300,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51318,7 +51333,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51351,7 +51366,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51384,7 +51399,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51417,7 +51432,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51450,7 +51465,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51483,7 +51498,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51516,7 +51531,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51549,7 +51564,7 @@ app.showView('problem4');
 
           image6: {
             name: "image6",
-            url: "images/474255573_529825212771293_6366124328733620621_n.png",
+            url: "app/images/474255573_529825212771293_6366124328733620621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51571,7 +51586,7 @@ app.showView('problem4');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51605,7 +51620,7 @@ window.location.href = "mailto:darunpon.p@kkumail.com";
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51638,7 +51653,7 @@ window.location.href = "mailto:nuttmo@kku.ac.th";
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -51797,6 +51812,7 @@ window.location.href = "mailto:samart@kku.ac.th";
 <transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="coaching4" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image6"></dab-image><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush2"></dab-image-push></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
+
 const coaching5 = {
  components: DabComponents,
  created() {
@@ -51815,7 +51831,7 @@ const coaching5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/475255349_9527840030573972_3745284200734011761_n.png",
+            url: "app/images/475255349_9527840030573972_3745284200734011761_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51837,7 +51853,7 @@ const coaching5 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51870,7 +51886,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/474320417_2429177594103588_1332739555038677308_n.png",
+            url: "app/images/474320417_2429177594103588_1332739555038677308_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51892,7 +51908,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images/474327371_1359827631591452_6482014203021353621_n.png",
+            url: "app/images/474327371_1359827631591452_6482014203021353621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51914,7 +51930,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images/473776666_3808937202657807_3730168871219213570_n.png",
+            url: "app/images/473776666_3808937202657807_3730168871219213570_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51936,7 +51952,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -51969,7 +51985,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52002,7 +52018,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52035,7 +52051,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52068,7 +52084,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52101,7 +52117,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52134,7 +52150,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52167,7 +52183,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52200,7 +52216,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52233,7 +52249,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52266,7 +52282,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52299,7 +52315,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52332,7 +52348,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52365,7 +52381,7 @@ app.showView('problem5');
 
           image6: {
             name: "image6",
-            url: "images/474255573_529825212771293_6366124328733620621_n.png",
+            url: "app/images/474255573_529825212771293_6366124328733620621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52387,7 +52403,7 @@ app.showView('problem5');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52421,7 +52437,7 @@ window.location.href = "mailto:darunpon.p@kkumail.com";
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52454,7 +52470,7 @@ window.location.href = "mailto:nuttmo@kku.ac.th";
 
           imgpush2: {
             name: "imgpush2",
-            image: "images/icons8-email-500.png",
+            image: "app/images/icons8-email-500.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52613,6 +52629,7 @@ window.location.href = "mailto:samart@kku.ac.th";
 <transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div title="Created with Unregistered DecSoft App Builder" id="coaching5" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-image v-bind="image1"></dab-image><dab-image v-bind="image3"></dab-image><dab-image v-bind="image2"></dab-image><dab-image v-bind="image4"></dab-image><dab-image v-bind="image5"></dab-image><dab-image v-bind="image8"></dab-image><dab-image-push v-bind="imgpush25"></dab-image-push><dab-image-push v-bind="imgpush26"></dab-image-push><dab-image-push v-bind="imgpush27"></dab-image-push><dab-image-push v-bind="imgpush28"></dab-image-push><dab-image-push v-bind="imgpush29"></dab-image-push><dab-image-push v-bind="imgpush30"></dab-image-push><dab-image-push v-bind="imgpush31"></dab-image-push><dab-image-push v-bind="imgpush32"></dab-image-push><dab-image-push v-bind="imgpush33"></dab-image-push><dab-image-push v-bind="imgpush34"></dab-image-push><dab-image-push v-bind="imgpush35"></dab-image-push><dab-image-push v-bind="imgpush36"></dab-image-push><dab-image v-bind="image6"></dab-image><dab-image-push v-bind="imgpush1"></dab-image-push><dab-image-push v-bind="imgpush3"></dab-image-push><dab-image-push v-bind="imgpush2"></dab-image-push></div></transition>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
+
 const collaboration1 = {
  components: DabComponents,
  created() {
@@ -52631,7 +52648,7 @@ const collaboration1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52653,7 +52670,7 @@ const collaboration1 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52686,7 +52703,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52720,7 +52737,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images/467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52753,7 +52770,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image5: {
             name: "image5",
-            url: "images/467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52787,7 +52804,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image6: {
             name: "image6",
-            url: "images/474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52808,7 +52825,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           image7: {
             name: "image7",
-            url: "images/474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52830,7 +52847,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -52863,7 +52880,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52896,7 +52913,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52929,7 +52946,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52962,7 +52979,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -52995,7 +53012,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53028,7 +53045,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53061,7 +53078,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53094,7 +53111,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53127,7 +53144,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53160,7 +53177,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53193,7 +53210,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53226,7 +53243,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53405,7 +53422,7 @@ const collaboration2 = {
           app: this.$root,
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53438,7 +53455,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53471,7 +53488,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53504,7 +53521,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53537,7 +53554,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53570,7 +53587,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53603,7 +53620,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/3.png",
+            image: "app/images/3.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53636,7 +53653,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53669,7 +53686,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53702,7 +53719,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53735,7 +53752,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53768,7 +53785,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53801,7 +53818,7 @@ app.showView('problem1');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53834,7 +53851,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53867,7 +53884,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53900,7 +53917,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53933,7 +53950,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53966,7 +53983,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -53999,7 +54016,7 @@ app.showView('problem1');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54032,7 +54049,7 @@ app.showView('collaboration2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54065,7 +54082,7 @@ app.showView('problem2');
 
           image1: {
             name: "image1",
-            url: "images/474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54087,7 +54104,7 @@ app.showView('problem2');
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54120,7 +54137,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54154,7 +54171,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images/467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54187,7 +54204,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image7: {
             name: "image7",
-            url: "images/474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54209,7 +54226,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54242,7 +54259,7 @@ app.showView('home');
 
           image5: {
             name: "image5",
-            url: "images/467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54276,7 +54293,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54309,7 +54326,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54342,7 +54359,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54375,7 +54392,7 @@ app.showView('scaf2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54408,7 +54425,7 @@ app.showView('coaching2');
 
           image6: {
             name: "image6",
-            url: "images/474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54575,7 +54592,7 @@ const collaboration3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54597,7 +54614,7 @@ const collaboration3 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54630,7 +54647,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54664,7 +54681,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images/467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54697,7 +54714,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image5: {
             name: "image5",
-            url: "images/467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54731,7 +54748,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image7: {
             name: "image7",
-            url: "images/474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54753,7 +54770,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -54786,7 +54803,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54819,7 +54836,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54852,7 +54869,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54885,7 +54902,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54918,7 +54935,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54951,7 +54968,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -54984,7 +55001,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55017,7 +55034,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55050,7 +55067,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55083,7 +55100,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55116,7 +55133,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55149,7 +55166,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55182,7 +55199,7 @@ app.showView('problem3');
 
           image6: {
             name: "image6",
-            url: "images/474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55349,7 +55366,7 @@ const collaboration4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55371,7 +55388,7 @@ const collaboration4 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55404,7 +55421,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55438,7 +55455,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images/467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55471,7 +55488,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image5: {
             name: "image5",
-            url: "images/467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55505,7 +55522,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image7: {
             name: "image7",
-            url: "images/474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55527,7 +55544,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -55560,7 +55577,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55593,7 +55610,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55626,7 +55643,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55659,7 +55676,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55692,7 +55709,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55725,7 +55742,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55758,7 +55775,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55791,7 +55808,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55824,7 +55841,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55857,7 +55874,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55890,7 +55907,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55923,7 +55940,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -55956,7 +55973,7 @@ app.showView('problem4');
 
           image6: {
             name: "image6",
-            url: "images/474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56123,7 +56140,7 @@ const collaboration5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images/474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56145,7 +56162,7 @@ const collaboration5 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56178,7 +56195,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56212,7 +56229,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images/467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56245,7 +56262,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image5: {
             name: "image5",
-            url: "images/467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56279,7 +56296,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image7: {
             name: "image7",
-            url: "images/474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56301,7 +56318,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56334,7 +56351,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56367,7 +56384,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56400,7 +56417,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56433,7 +56450,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56466,7 +56483,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56499,7 +56516,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56532,7 +56549,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56565,7 +56582,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56598,7 +56615,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56631,7 +56648,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56664,7 +56681,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56697,7 +56714,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56730,7 +56747,7 @@ app.showView('problem5');
 
           image6: {
             name: "image6",
-            url: "images/474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -56897,7 +56914,7 @@ const view1 = {
           app: this.$root,
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56930,7 +56947,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56963,7 +56980,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -56996,7 +57013,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57029,7 +57046,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57062,7 +57079,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57095,7 +57112,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57128,7 +57145,7 @@ app.showView('learning5');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57161,7 +57178,7 @@ app.showView('compre5');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57194,7 +57211,7 @@ app.showView('scaf5');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57227,7 +57244,7 @@ app.showView('collaboration5');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57260,7 +57277,7 @@ app.showView('coaching5');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57471,7 +57488,7 @@ const task12 = {
 
           image10: {
             name: "image10",
-            url: "images/476563054_1677405076457940_5927207577097399227_n.png",
+            url: "app/images/476563054_1677405076457940_5927207577097399227_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -57493,7 +57510,7 @@ const task12 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -57526,7 +57543,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -57559,7 +57576,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476748280_592460126946404_5140940223753577309_n.png",
+            url: "app/images/476748280_592460126946404_5140940223753577309_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -57581,7 +57598,7 @@ app.showView('home');
 
           imgpush12: {
             name: "imgpush12",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57614,7 +57631,7 @@ app.showView('learning1');
 
           imgpush13: {
             name: "imgpush13",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57647,7 +57664,7 @@ app.showView('compre1');
 
           imgpush14: {
             name: "imgpush14",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57680,7 +57697,7 @@ app.showView('scaf1');
 
           imgpush15: {
             name: "imgpush15",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57713,7 +57730,7 @@ app.showView('coaching2');
 
           imgpush1: {
             name: "imgpush1",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57746,7 +57763,7 @@ app.showView('collaboration');
 
           imgpush11: {
             name: "imgpush11",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57779,7 +57796,7 @@ app.showView('problem1');
 
           imgpush3: {
             name: "imgpush3",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57812,7 +57829,7 @@ app.showView('learning1');
 
           imgpush4: {
             name: "imgpush4",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57845,7 +57862,7 @@ app.showView('compre1');
 
           imgpush5: {
             name: "imgpush5",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57878,7 +57895,7 @@ app.showView('scaf1');
 
           imgpush7: {
             name: "imgpush7",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57911,7 +57928,7 @@ app.showView('collaboration1');
 
           imgpush9: {
             name: "imgpush9",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57944,7 +57961,7 @@ app.showView('coaching1');
 
           imgpush10: {
             name: "imgpush10",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -57977,7 +57994,7 @@ app.showView('problem1');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58010,7 +58027,7 @@ app.showDialog('Anstask12');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58032,7 +58049,7 @@ app.showDialog('Anstask12');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58065,7 +58082,7 @@ app.showDialog('dialogtask1');
 
           image6: {
             name: "image6",
-            url: "images/474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58086,7 +58103,7 @@ app.showDialog('dialogtask1');
           },
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58297,7 +58314,7 @@ const task22 = {
 
           image10: {
             name: "image10",
-            url: "images/476310987_976854213903280_7876804710384592011_n.png",
+            url: "app/images/476310987_976854213903280_7876804710384592011_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58319,7 +58336,7 @@ const task22 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58352,7 +58369,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58385,7 +58402,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58418,7 +58435,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58451,7 +58468,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58484,7 +58501,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58517,7 +58534,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58550,7 +58567,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58583,7 +58600,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58616,7 +58633,7 @@ app.showView('learning2');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58649,7 +58666,7 @@ app.showView('compre2');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58682,7 +58699,7 @@ app.showView('scaf2');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58715,7 +58732,7 @@ app.showView('collaboration2');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58748,7 +58765,7 @@ app.showView('coaching2');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -58781,7 +58798,7 @@ app.showView('problem2');
 
           image7: {
             name: "image7",
-            url: "images/476748280_592460126946404_5140940223753577309_n.png",
+            url: "app/images/476748280_592460126946404_5140940223753577309_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58803,7 +58820,7 @@ app.showView('problem2');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58836,7 +58853,7 @@ app.showDialog('Anstask22');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58858,7 +58875,7 @@ app.showDialog('Anstask22');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58891,7 +58908,7 @@ app.showDialog('dialogtask2');
 
           image13: {
             name: "image13",
-            url: "images/473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -58912,7 +58929,7 @@ app.showDialog('dialogtask2');
           },
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59123,7 +59140,7 @@ const task32 = {
 
           image10: {
             name: "image10",
-            url: "images/476272213_630147419711215_7890904839697342679_n.png",
+            url: "app/images/476272213_630147419711215_7890904839697342679_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59145,7 +59162,7 @@ const task32 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59178,7 +59195,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59211,7 +59228,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59244,7 +59261,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59277,7 +59294,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59310,7 +59327,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59343,7 +59360,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59376,7 +59393,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59409,7 +59426,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59442,7 +59459,7 @@ app.showView('learning3');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59475,7 +59492,7 @@ app.showView('compre3');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59508,7 +59525,7 @@ app.showView('scaf3');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59541,7 +59558,7 @@ app.showView('collaboration3');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59574,7 +59591,7 @@ app.showView('coaching3');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -59607,7 +59624,7 @@ app.showView('problem3');
 
           image7: {
             name: "image7",
-            url: "images/476748280_592460126946404_5140940223753577309_n.png",
+            url: "app/images/476748280_592460126946404_5140940223753577309_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59629,7 +59646,7 @@ app.showView('problem3');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59662,7 +59679,7 @@ app.showDialog('Anstask32');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59684,7 +59701,7 @@ app.showDialog('Anstask32');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59717,7 +59734,7 @@ app.showDialog('dialogtask3');
 
           image6: {
             name: "image6",
-            url: "images/474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59738,7 +59755,7 @@ app.showDialog('dialogtask3');
           },
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59949,7 +59966,7 @@ const task42 = {
 
           image10: {
             name: "image10",
-            url: "images/475014316_1138870750819405_8089435507590305072_n.png",
+            url: "app/images/475014316_1138870750819405_8089435507590305072_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -59971,7 +59988,7 @@ const task42 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60004,7 +60021,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60037,7 +60054,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60070,7 +60087,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60103,7 +60120,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60136,7 +60153,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60169,7 +60186,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60202,7 +60219,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60235,7 +60252,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60268,7 +60285,7 @@ app.showView('learning4');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60301,7 +60318,7 @@ app.showView('compre4');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60334,7 +60351,7 @@ app.showView('scaf4');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60367,7 +60384,7 @@ app.showView('collaboration4');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60400,7 +60417,7 @@ app.showView('coaching4');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60433,7 +60450,7 @@ app.showView('problem4');
 
           image7: {
             name: "image7",
-            url: "images/476748280_592460126946404_5140940223753577309_n.png",
+            url: "app/images/476748280_592460126946404_5140940223753577309_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60455,7 +60472,7 @@ app.showView('problem4');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60488,7 +60505,7 @@ app.showDialog('Anstask42');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60510,7 +60527,7 @@ app.showDialog('Anstask42');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60543,7 +60560,7 @@ app.showDialog('dialogtask4');
 
           image6: {
             name: "image6",
-            url: "images/474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60564,7 +60581,7 @@ app.showDialog('dialogtask4');
           },
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60775,7 +60792,7 @@ const task52 = {
 
           image10: {
             name: "image10",
-            url: "images/476325538_617994807639973_8948917920954203641_n.png",
+            url: "app/images/476325538_617994807639973_8948917920954203641_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60797,7 +60814,7 @@ const task52 = {
 
           image3: {
             name: "image3",
-            url: "images/467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60830,7 +60847,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images/472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60863,7 +60880,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images/476748280_592460126946404_5140940223753577309_n.png",
+            url: "app/images/476748280_592460126946404_5140940223753577309_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -60885,7 +60902,7 @@ app.showView('home');
 
           imgpush25: {
             name: "imgpush25",
-            image: "images/book-world.png",
+            image: "app/images/book-world.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60918,7 +60935,7 @@ app.showView('learning1');
 
           imgpush26: {
             name: "imgpush26",
-            image: "images/dice-alt.png",
+            image: "app/images/dice-alt.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60951,7 +60968,7 @@ app.showView('compre1');
 
           imgpush27: {
             name: "imgpush27",
-            image: "images/summary-check.png",
+            image: "app/images/summary-check.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -60984,7 +61001,7 @@ app.showView('scaf1');
 
           imgpush28: {
             name: "imgpush28",
-            image: "images/user.png",
+            image: "app/images/user.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61017,7 +61034,7 @@ app.showView('coaching2');
 
           imgpush29: {
             name: "imgpush29",
-            image: "images/icons8-collaboration-50.png",
+            image: "app/images/icons8-collaboration-50.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61050,7 +61067,7 @@ app.showView('collaboration');
 
           imgpush30: {
             name: "imgpush30",
-            image: "images/comments-question.png",
+            image: "app/images/comments-question.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61083,7 +61100,7 @@ app.showView('problem1');
 
           imgpush31: {
             name: "imgpush31",
-            image: "images/476300063_652321767217303_5673511828266406973_n.png",
+            image: "app/images/476300063_652321767217303_5673511828266406973_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61116,7 +61133,7 @@ app.showView('learning5');
 
           imgpush32: {
             name: "imgpush32",
-            image: "images/4.png",
+            image: "app/images/4.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61149,7 +61166,7 @@ app.showView('compre5');
 
           imgpush33: {
             name: "imgpush33",
-            image: "images/5.png",
+            image: "app/images/5.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61182,7 +61199,7 @@ app.showView('scaf5');
 
           imgpush34: {
             name: "imgpush34",
-            image: "images/7.png",
+            image: "app/images/7.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61215,7 +61232,7 @@ app.showView('collaboration5');
 
           imgpush35: {
             name: "imgpush35",
-            image: "images/476144263_3615708798720847_7483968261095882642_n.png",
+            image: "app/images/476144263_3615708798720847_7483968261095882642_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61248,7 +61265,7 @@ app.showView('coaching5');
 
           imgpush36: {
             name: "imgpush36",
-            image: "images/ss.png",
+            image: "app/images/ss.png",
             classes: "",
             title: "Problem base Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -61281,7 +61298,7 @@ app.showView('problem5');
 
           image2: {
             name: "image2",
-            url: "images/476541755_1343274773764422_5852277837991148200_n.png",
+            url: "app/images/476541755_1343274773764422_5852277837991148200_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -61314,7 +61331,7 @@ app.showDialog('Anstask52');
 
           image1: {
             name: "image1",
-            url: "images/476471856_547418611655362_3774637520572694425_n.png",
+            url: "app/images/476471856_547418611655362_3774637520572694425_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -61336,7 +61353,7 @@ app.showDialog('Anstask52');
 
           image11: {
             name: "image11",
-            url: "images/472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -61369,7 +61386,7 @@ app.showDialog('dialogtask5');
 
           image6: {
             name: "image6",
-            url: "images/474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -61390,7 +61407,7 @@ app.showDialog('dialogtask5');
           },
           image4: {
             name: "image4",
-            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -61587,10 +61604,10 @@ const DabApp = {
       
       id: "com.decsoft.appbuilder",
       version: "1.0.0",
-      name: "ReadMaster",
-      shortName: "ReadMaster",
-      description: "Enhance your Reading Comprehension Skill",
-      authorName: "Ms.Darunpon Pimpatchim",
+      name: "New App 2",
+      shortName: "New App 2",
+      description: "Another DecSoft App Builder app",
+      authorName: "DecSoft App Builder",
       authorEmail: "DecSoft App Builder",
       authorUrl: "https://www.decsoftutils.com/",
       language: "en",
@@ -62124,7 +62141,7 @@ const DabApp = {
       this.theme = lowerThemeName;
 
       let dirSuffix = this.textDirection.toLowerCase() === 'rtl' ? '.rtl' : '';
-      $('#app-theme').attr('href', `styles/${lowerThemeName}${dirSuffix}.css`);
+      $('#app-theme').attr('href', `app/styles/${lowerThemeName}${dirSuffix}.css`);
 
       $('body').addClass(this.theme);
       return this.theme;
@@ -62145,13 +62162,13 @@ const DabApp = {
     setAppFixedStyle() {
 
       this.style = 'fixed';
-      $('#app-style').attr('href', 'styles/fixed.css');
+      $('#app-style').attr('href', 'app/styles/fixed.css');
     },
 
     setAppScaledStyle() {
 
       this.style = 'scaled';
-      $('#app-style').attr('href', 'styles/scaled.css');
+      $('#app-style').attr('href', 'app/styles/scaled.css');
     },
 
     setAppTextDirection(textDirection) {
