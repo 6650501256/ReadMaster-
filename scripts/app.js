@@ -10675,7 +10675,7 @@ const home = {
                 self = views["home"].image4;
                 self.event = event;
 
-app.showView('problem1');
+app.showView('problem2');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -10741,7 +10741,7 @@ app.showView('problem1');
                 self = views["home"].image10;
                 self.event = event;
 
-app.showView('problem3');
+app.showView('proble4');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -10774,7 +10774,7 @@ app.showView('problem3');
                 self = views["home"].image11;
                 self.event = event;
 
-app.showView('problem4');
+app.showView('problem3');
             },
             dblclickHandler() {},
             mouseupHandler() {},
