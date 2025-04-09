@@ -10708,7 +10708,7 @@ app.showView('problem1');
                 self = views["home"].image9;
                 self.event = event;
 
-app.showView('problem2');
+app.showView('problem1');
             },
             dblclickHandler() {},
             mouseupHandler() {},
