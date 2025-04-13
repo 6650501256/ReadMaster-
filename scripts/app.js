@@ -10741,7 +10741,7 @@ app.showView('problem1');
                 self = views["home"].image10;
                 self.event = event;
 
-app.showView('proble4');
+app.showView('problem4');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -22436,7 +22436,7 @@ const compre5 = {
                 self = views["compre5"].image2;
                 self.event = event;
 
-window.open('https://play.blooket.com/play?hwId=6775486b322992275db539a1', '_system');
+window.open('https://play.blooket.com/play?hwId=67fbb7e7df5f2f7ee7c70643', '_system');
 
             },
             dblclickHandler() {},
