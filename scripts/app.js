@@ -32775,7 +32775,7 @@ app.showView('problem1');
                 self = views["taskbot12"].image9;
                 self.event = event;
 
-app.showView('problem2');
+app.showView('problem4');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -35732,7 +35732,7 @@ app.showView('problem2');
                 self = views["taskbot24"].image2;
                 self.event = event;
 
-app.showView('problem3');
+app.showView('problem1');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -38710,7 +38710,7 @@ app.showView('problem3');
                 self = views["taskbot34"].image2;
                 self.event = event;
 
-app.showView('problem4');
+app.showView('problem5');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -41688,7 +41688,7 @@ app.showView('problem4');
                 self = views["taskbot44"].image2;
                 self.event = event;
 
-app.showView('problem5');
+app.showView('problem3');
             },
             dblclickHandler() {},
             mouseupHandler() {},
