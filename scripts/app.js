@@ -21773,7 +21773,7 @@ const compre4 = {
                 self = views["compre4"].image2;
                 self.event = event;
 
-window.open('https://play.blooket.com/play?hwId=677548312bf8fe984820cf75', '_system');
+window.open('https://play.blooket.com/play?hwId=67ff643fdb90baf5a6ac9459', '_system');
 
             },
             dblclickHandler() {},
